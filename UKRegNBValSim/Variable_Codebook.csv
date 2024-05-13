@@ -1,0 +1,64 @@
+﻿Raw,Renamed,Item
+PEB_1,PEB_1,"Get involved in conservation work to protect natural environments (e.g. national parks, coastline)"
+PEB_2,PEB_2,"Write to a local or regional politician (e.g. local councillor, mayor) about an environmental issue "
+PEB_25,PEB_3,"Write to a national politician (e.g. MP, government minister) about an environmental issue "
+PEB_3,PEB_4,Offer support (e.g. by voting) for political action to protect the environment 
+PEB_4,PEB_5,Take part in a protest about an environmental issue 
+PEB_5,PEB_6,Sign a petition about an environmental issue 
+PEB_6,PEB_7,"Set up a recycling scheme at work, college or elsewhere"
+PEB_7,PEB_8,Donate money to an environmental campaign group
+PEB_8,PEB_9,"Do something together with neighbours, people at work or friends to address an environmental issue"
+PEB_9,PEB_10,Find out more about environmental issues (e.g. learning more about climate change)
+PEB_10,PEB_11,"Avoid buying new things unnecessarily (e.g. clothes, luxury items)"
+PEB_11,PEB_12,Fit energy-saving lightbulbs at home
+PEB_12,PEB_13,Consider changing who you would vote for because of climate change
+PEB_13,PEB_14,Turn off the tap when brushing teeth
+PEB_14,PEB_15,Avoid littering (throwing rubbish on the street)
+PEB_15,PEB_16,Avoid wasting food (e.g. by using leftovers)
+PEB_16,PEB_17,Turn off lights when not in use
+PEB_17,PEB_18,Recycle household waste (e.g. glass)
+PEB_18,PEB_19,Take short showers (less than 3 min long) or infrequent baths
+PEB_19,PEB_20,Avoid eating meat (or continue avoiding meat if already not eating meat)
+PEB_20,PEB_21,Encourage other people to save energy
+PEB_21,PEB_22,Buy products with less packaging
+PEB_22,PEB_23,Buy environmentally friendly products
+PEB_23,PEB_24,"Eat organic, locally grown or in-season food"
+PEB_27,AC2,This item is here to check you are paying attention. Please move the slider all the way up to 100 for this question.
+PEB_24,PEB_25,Try to fix things rather than replace them
+PEB_26,PEB_26,Avoid using the car when I could walk or cycle
+PE_Efficacy_6,Self-Efficacy,
+PE_Efficacy_2,NB-Efficacy,
+PE_Efficacy_4,Reg-Efficacy,
+PE_Efficacy_5,UK-Efficacy,
+GI_8,GI_UK,
+GI_2,GI_NB,
+GI_12,GI_Reg,
+PI_1,PI_NB_Like,I like my neighbourhood
+PI_2,PI_NB_Id,
+PI_3,PI_NB_Emo,
+PI_11,PI_Reg_Like,
+PI_12,PI_Reg_Id,
+PI_13,PI_Reg_Emo,
+PI_7,PI_UK_Like,
+PI_8,PI_UK_Id,
+PI_9,PI_UK_Emo,
+NB_Sim_1,NB_OveSim,
+NB_Sim_2,NB_OveSim2,
+NB_Sim_3,NB_ValSim,
+NB_Sim_4,NB_ValSim2,
+NB_Sim_5,NB_PerSim,
+NB_Sim_6,NB_PerSim2,
+Reg_Sim_1,Reg_OveSim,
+Reg_Sim_2,Reg_OveSim2,
+Reg_Sim_3,Reg_ValSim,
+Reg_Sim_4,Reg_ValSim2,
+Reg_Sim_5,Reg_PerSim,
+Reg_Sim_6,Reg_PerSim2,
+UK_Sim_1,UK_OveSim,
+UK_Sim_2,UK_OveSim2,
+UK_Sim_3,UK_ValSim,
+UK_Sim_4,UK_ValSim2,
+UK_Sim_5,UK_PerSim,
+UK_Sim_6,UK_PerSim2,
+AffectGen_1,Affect_Good,
+AffectGen_2,Affect_Bad,

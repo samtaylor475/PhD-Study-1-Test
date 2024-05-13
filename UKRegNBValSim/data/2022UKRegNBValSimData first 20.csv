@@ -1,0 +1,1365 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Consent_1,Consent_2,Consent_3,ProlificID,Gender,Gender_4_TEXT,Age,Region,RegionTiming_First Click,RegionTiming_Last Click,RegionTiming_Page Submit,RegionTiming_Click Count,IntroValuesTime_First Click,IntroValuesTime_Last Click,IntroValuesTime_Page Submit,IntroValuesTime_Click Count,Self_SVS_1,Self_SVS_2,Self_SVS_3,Self_SVS_4,Self_SVS_5,Self_SVS_6,Self_SVS_7,Self_SVS_8,Self_SVS_9,Self_SVS_10,Self_SVS_11,Self_SVS_12,Self_SVS_13,Self_SVS_14,Self_SVS_15,Self_SVS_16,Self_SVS_17,Self_SVS_18,Self_SVS_19,Self_SVS_20,Self_SVS_21,SVSTiming_First Click,SVSTiming_Last Click,SVSTiming_Page Submit,SVSTiming_Click Count,NB_SVS_1,NB_SVS_2,NB_SVS_3,NB_SVS_4,NB_SVS_5,NB_SVS_6,NB_SVS_7,NB_SVS_8,NB_SVS_9,NB_SVS_10,NB_SVS_11,NB_SVS_12,NB_SVS_13,NB_SVS_14,NB_SVS_15,NB_SVS_16,NB_SVS_17,NB_SVS_18,NB_SVS_19,NB_SVS_20,NB_SVS_21,SVS-NBTime_First Click,SVS-NBTime_Last Click,SVS-NBTime_Page Submit,SVS-NBTime_Click Count,Reg_SVS_1,Reg_SVS_2,Reg_SVS_3,Reg_SVS_4,Reg_SVS_5,Reg_SVS_6,Reg_SVS_7,Reg_SVS_8,Reg_SVS_9,Reg_SVS_10,Reg_SVS_11,Reg_SVS_12,Reg_SVS_13,Reg_SVS_14,Reg_SVS_15,Reg_SVS_16,Reg_SVS_17,Reg_SVS_18,Reg_SVS_19,Reg_SVS_20,Reg_SVS_21,Reg_SVSTime_First Click,Reg_SVSTime_Last Click,Reg_SVSTime_Page Submit,Reg_SVSTime_Click Count,UK_SVS_1,UK_SVS_2,UK_SVS_3,UK_SVS_4,UK_SVS_5,UK_SVS_6,UK_SVS_7,UK_SVS_8,UK_SVS_9,UK_SVS_10,UK_SVS_11,UK_SVS_12,UK_SVS_13,UK_SVS_14,UK_SVS_15,UK_SVS_16,UK_SVS_17,UK_SVS_18,UK_SVS_19,UK_SVS_20,UK_SVS_21,UK_SVSTime_First Click,UK_SVSTime_Last Click,UK_SVSTime_Page Submit,UK_SVSTime_Click Count,AC1,AC1_Time_First Click,AC1_Time_Last Click,AC1_Time_Page Submit,AC1_Time_Click Count,NB_Sim_1,NB_Sim_2,NB_Sim_3,NB_Sim_4,NB_Sim_5,NB_Sim_6,Sim-NBTime_First Click,Sim-NBTime_Last Click,Sim-NBTime_Page Submit,Sim-NBTime_Click Count,Reg_Sim_1,Reg_Sim_2,Reg_Sim_3,Reg_Sim_4,Reg_Sim_5,Reg_Sim_6,Sim-RETime_First Click,Sim-RETime_Last Click,Sim-RETime_Page Submit,Sim-RETime_Click Count,UK_Sim_1,UK_Sim_2,UK_Sim_3,UK_Sim_4,UK_Sim_5,UK_Sim_6,Sim-UK_First Click,Sim-UK_Last Click,Sim-UK_Page Submit,Sim-UK_Click Count,LifeSatisfaction,LifeMeaning,SelfEsteem,SelfEsteemName,DepressionAnxiety_1,DepressionAnxiety_2,DepressionAnxiety_3,DepressionAnxiety_4,DepressionAnxiety_5,DepressionAnxiety_6,WellbeingTime_First Click,WellbeingTime_Last Click,WellbeingTime_Page Submit,WellbeingTime_Click Count,AffectGen_1,AffectGen_2,AffectGen_3,AffectGen_4,AffectGen_5,AffectGen_6,AffectGen_7,AffectGen_8,AffectGen_9,AffectGen_10,AffectGen_11,AffectGen_12,AffectGen_13,AffectGen_14,AffectGen_15,AffectGen_16,AffectGen_17,AffectGenTime_First Click,AffectGenTime_Last Click,AffectGenTime_Page Submit,AffectGenTime_Click Count,PEB_1,PEB_2,PEB_25,PEB_3,PEB_4,PEB_5,PEB_6,PEB_7,PEB_8,PEB_9,PEB_10,PEB_11,PEB_12,PEB_13,PEBTime_First Click,PEBTime_Last Click,PEBTime_Page Submit,PEBTime_Click Count,PEB_14,PEB_15,PEB_16,PEB_17,PEB_18,PEB_19,PEB_20,PEB_21,PEB_22,PEB_23,PEB_27,PEB_24,PEB_26,PEB2Time_First Click,PEB2Time_Last Click,PEB2Time_Page Submit,PEB2Time_Click Count,PE_Efficacy_6,PE_Efficacy_2,PE_Efficacy_4,PE_Efficacy_5,PETiming_First Click,PETiming_Last Click,PETiming_Page Submit,PETiming_Click Count,AnthroCC,AnthroCCTiming_First Click,AnthroCCTiming_Last Click,AnthroCCTiming_Page Submit,AnthroCCTiming_Click Count,AffectCC_1,AffectCC_2,AffectCC_3,AffectCC_4,AffectCC_5,AffectCC_6,AffectCC_7,AffectCC_8,AffectCC_9,AffectCC_10,AffectCC_11,AffectCC_12,AffectCC_13,AffectCC_14,AffectCC_15,AffectCC_16,AffectCC_17,AffectCCTime_First Click,AffectCCTime_Last Click,AffectCCTime_Page Submit,AffectCCTime_Click Count,PI_1,PI_2,PI_3,PI_11,PI_12,PI_13,PI_7,PI_8,PI_9,PI_Time_First Click,PI_Time_Last Click,PI_Time_Page Submit,PI_Time_Click Count,GI_2,GI_12,GI_8,GI_Time_First Click,GI_Time_Last Click,GI_Time_Page Submit,GI_Time_Click Count,LeftRight,PoliticalParty,PoliticalParty_8_TEXT,SubjectiveClass,SubjectiveClass_7_TEXT,ClassDifference,SSES_UK,SSES_RE,SSES_NB,HumanityEsteem,Political/SES1_Time_First Click,Political/SES1_Time_Last Click,Political/SES1_Time_Page Submit,Political/SES1_Time_Click Count,Income,Education,HHAdults,HHChildren,Occupation,ParliamentEngland,IndEngland,IndNI,IndWales,IndScotland,Brexit,NeighbourhoodOpen,Political/SES2_Time_First Click,Political/SES2_Time_Last Click,Political/SES2_Time_Page Submit,Political/SES2_Time_Click Count,SexBirth,Gender2,Gender2_7_TEXT,SexualOrientation,SexualOrientation_4_TEXT,Religion,Religion_8_TEXT,Ethnicity,Ethnicity_4_TEXT,Ethnicity_8_TEXT,Ethnicity_13_TEXT,Ethnicity_16_TEXT,Ethnicity_18_TEXT,Vegetarian,Postcode,UKBorn,DemographicsTime_First Click,DemographicsTime_Last Click,DemographicsTime_Page Submit,DemographicsTime_Click Count,Feedback,PROLIFIC_PID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Information 
+
+ 
+
+Study Name: Social Attitudes in Your Area
+
+ 
+
+Welcome, and thank you for choosing to participate in our study.
+
+ 
+
+This 25 minute online survey is being carried out by a PhD candidate, Sam Taylor (supervised by Professor Greg Maio), and will ask you several questions about your own attitudes, thoughts and behaviours and your views on the attitudes, thoughts and behaviours of others in the area that you live.
+
+ 
+
+Ethics: At the end of the study, we will inform you in more detail about the aims and hypotheses of this study and give you the opportunity to provide feedback. Should you have any questions or wish to withdraw your data from the study at this stage, you may do so by emailing sjt80@bath.ac.uk within two weeks of completing the study and quoting your Prolific ID. You may also withdraw at any time by closing your browser window; any data collected up until that point will be deleted by the researchers. If you have any additional questions, please do not hesitate to contact the researchers (details below).
+
+ 
+
+Eligibility requirements: You must be over 18 years of age and have lived in the United Kingdom for at least 5 years throughout your life (this does not have to be for the last five years or consecutively - just at least 5 years over the course of your life).
+
+ 
+
+Researchers:
+
+Sam Taylor (sjt80@bath.ac.uk)
+
+PhD Student
+
+Department of Psychology
+
+University of Bath
+
+ 
+
+Supervised by:
+
+Professor Greg Maio (gm659@bath.ac.uk)
+
+Department of Psychology
+
+University of Bath
+
+ 
+
+Ethics Approval Code: 21-252 (Approved by Department of Psychology, University of Bath).
+
+ 
+
+If you have any concerns related to your participation in this study, please direct them to Department of Psychology Research Ethics Committee, via psychologyethics@bath.ac.uk.
+
+ 
+
+ 
+
+Please read the following statements and then answer the questions below to consent to participating in this study:
+
+
+	I have received enough information about the purpose and nature of this study to make a decision about my participation.
+	I understand that I am free to ask any questions at any time and without having to give a reason. I am free to withdraw or discuss my concerns with the researcher, Sam Taylor (sjt80@bath.ac.uk), or their supervisor, Professor Greg Maio (gm659@bath.ac.uk).
+	I understand and acknowledge that the investigation is designed to promote scientific knowledge and that the University of Bath will use the data I provide for no other purpose than research.
+	I understand that the University of Bath may make the data from all participants publicly available as a set. I understand that this means that the data may be used for purposes not related to this study, but that the conditions on this form under which I have provided the data will still apply and it will not be possible to identify me from these data.
+	I understand that I can withdraw from the study (including any data collected in previous sessions) up until the point of randomisation and anonymisation (which will be no more than 4 weeks after the final data collection session). - I consent to taking part in this study.","Information 
+
+ 
+
+Study Name: Social Attitudes in Your Area
+
+ 
+
+Welcome, and thank you for choosing to participate in our study.
+
+ 
+
+This 25 minute online survey is being carried out by a PhD candidate, Sam Taylor (supervised by Professor Greg Maio), and will ask you several questions about your own attitudes, thoughts and behaviours and your views on the attitudes, thoughts and behaviours of others in the area that you live.
+
+ 
+
+Ethics: At the end of the study, we will inform you in more detail about the aims and hypotheses of this study and give you the opportunity to provide feedback. Should you have any questions or wish to withdraw your data from the study at this stage, you may do so by emailing sjt80@bath.ac.uk within two weeks of completing the study and quoting your Prolific ID. You may also withdraw at any time by closing your browser window; any data collected up until that point will be deleted by the researchers. If you have any additional questions, please do not hesitate to contact the researchers (details below).
+
+ 
+
+Eligibility requirements: You must be over 18 years of age and have lived in the United Kingdom for at least 5 years throughout your life (this does not have to be for the last five years or consecutively - just at least 5 years over the course of your life).
+
+ 
+
+Researchers:
+
+Sam Taylor (sjt80@bath.ac.uk)
+
+PhD Student
+
+Department of Psychology
+
+University of Bath
+
+ 
+
+Supervised by:
+
+Professor Greg Maio (gm659@bath.ac.uk)
+
+Department of Psychology
+
+University of Bath
+
+ 
+
+Ethics Approval Code: 21-252 (Approved by Department of Psychology, University of Bath).
+
+ 
+
+If you have any concerns related to your participation in this study, please direct them to Department of Psychology Research Ethics Committee, via psychologyethics@bath.ac.uk.
+
+ 
+
+ 
+
+Please read the following statements and then answer the questions below to consent to participating in this study:
+
+
+	I have received enough information about the purpose and nature of this study to make a decision about my participation.
+	I understand that I am free to ask any questions at any time and without having to give a reason. I am free to withdraw or discuss my concerns with the researcher, Sam Taylor (sjt80@bath.ac.uk), or their supervisor, Professor Greg Maio (gm659@bath.ac.uk).
+	I understand and acknowledge that the investigation is designed to promote scientific knowledge and that the University of Bath will use the data I provide for no other purpose than research.
+	I understand that the University of Bath may make the data from all participants publicly available as a set. I understand that this means that the data may be used for purposes not related to this study, but that the conditions on this form under which I have provided the data will still apply and it will not be possible to identify me from these data.
+	I understand that I can withdraw from the study (including any data collected in previous sessions) up until the point of randomisation and anonymisation (which will be no more than 4 weeks after the final data collection session). - I live in the United Kingdom and have done so for at least 5 years of my life.","Information 
+
+ 
+
+Study Name: Social Attitudes in Your Area
+
+ 
+
+Welcome, and thank you for choosing to participate in our study.
+
+ 
+
+This 25 minute online survey is being carried out by a PhD candidate, Sam Taylor (supervised by Professor Greg Maio), and will ask you several questions about your own attitudes, thoughts and behaviours and your views on the attitudes, thoughts and behaviours of others in the area that you live.
+
+ 
+
+Ethics: At the end of the study, we will inform you in more detail about the aims and hypotheses of this study and give you the opportunity to provide feedback. Should you have any questions or wish to withdraw your data from the study at this stage, you may do so by emailing sjt80@bath.ac.uk within two weeks of completing the study and quoting your Prolific ID. You may also withdraw at any time by closing your browser window; any data collected up until that point will be deleted by the researchers. If you have any additional questions, please do not hesitate to contact the researchers (details below).
+
+ 
+
+Eligibility requirements: You must be over 18 years of age and have lived in the United Kingdom for at least 5 years throughout your life (this does not have to be for the last five years or consecutively - just at least 5 years over the course of your life).
+
+ 
+
+Researchers:
+
+Sam Taylor (sjt80@bath.ac.uk)
+
+PhD Student
+
+Department of Psychology
+
+University of Bath
+
+ 
+
+Supervised by:
+
+Professor Greg Maio (gm659@bath.ac.uk)
+
+Department of Psychology
+
+University of Bath
+
+ 
+
+Ethics Approval Code: 21-252 (Approved by Department of Psychology, University of Bath).
+
+ 
+
+If you have any concerns related to your participation in this study, please direct them to Department of Psychology Research Ethics Committee, via psychologyethics@bath.ac.uk.
+
+ 
+
+ 
+
+Please read the following statements and then answer the questions below to consent to participating in this study:
+
+
+	I have received enough information about the purpose and nature of this study to make a decision about my participation.
+	I understand that I am free to ask any questions at any time and without having to give a reason. I am free to withdraw or discuss my concerns with the researcher, Sam Taylor (sjt80@bath.ac.uk), or their supervisor, Professor Greg Maio (gm659@bath.ac.uk).
+	I understand and acknowledge that the investigation is designed to promote scientific knowledge and that the University of Bath will use the data I provide for no other purpose than research.
+	I understand that the University of Bath may make the data from all participants publicly available as a set. I understand that this means that the data may be used for purposes not related to this study, but that the conditions on this form under which I have provided the data will still apply and it will not be possible to identify me from these data.
+	I understand that I can withdraw from the study (including any data collected in previous sessions) up until the point of randomisation and anonymisation (which will be no more than 4 weeks after the final data collection session). - I am over the age of 18 years old.","What is your Prolific ID? 
+Please note that this response should auto-fill with the correct ID.",What gender do you identify as? - Selected Choice,"What gender do you identify as? - I do not identify as male, female or non-binary. I identify as: - Text",How old are you in years (e.g. 25)?,"Throughout this survey, you will be asked to consider your thoughts towards three areas and the people within them: your neighbourhood, the wider region (England) or country (Scotland, Wales or Northern Ireland) in which you live, and the United Kingdom as a whole.
+
+
+
+When considering your neighbourhood, people may define their neighbourhood in different ways. Please define it in whatever way is meaningful to you, considering the place where your main residence is located and where you would consider your neighbours to be located.
+
+
+
+When considering the United Kingdom, consider all of the people who live in all areas of the United Kingdom.
+
+
+
+When considering the area in which you live, please look at the map below and select your region, making sure in future questions to consider all of the people who live in that area when prompted. 
+
+
+
+
+
+
+
+Firstly, please confirm which country in the UK or region of England you currently live in (if you are unsure, see the list below marked *). 
+
+If you frequently move between neighbourhoods and regions or countries of the United Kingdom, please select the neighbourhood you identify with the most and select the corresponding region within which that neighbourhood is located. It is important that the neighbourhood you consider is within the country or region you select.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Protecting the environment (from destruction or pollution)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Broadmindedness (being tolerant of different ideas or beliefs)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Social justice (correcting injustice, protecting societies weak and vulnerable)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Helpfulness (helping friends and family)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Honesty (being genuine and sincere)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Social power (having control over others, being dominant)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Wealth (having material possessions, money)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Success (achieving one's goals)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Ambition (being hard-working, aspiring)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Curiosity (being interested in everything, novelty, change)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Freedom (forming own opinions, making own decisions)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - A varied life (filled with challenge, novelty and change)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - An exciting life (having stimulating experiences)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Pleasure (fulfilling one's desires)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Enjoying life (enjoying food, sex, leisure etc.)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Accepting my portion in life (submitting to life's circumstances)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Respecting tradition (maintaining customs of one's family or culture)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Honouring of parents or elders (showing respect)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Obedience (following rules, meeting obligations)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Social order (having a stable society)","In the following section you will be presented with a list of values. The main question in this task will be: ""Which values are important to you as guiding principles in your life, and which values are less important to you?"".
+
+ 
+
+ 
+Use the rating scale below:
+
+
+	0 means the value is not at all important; it is not relevant as a guiding principle for your life.
+	3 means the value is important.
+	6 means the value is very important. 
+
+
+The higher the number, the more important the value is as a guiding principle in your life.
+
+
+	-1 is for rating any values opposed to the principles that guide you.
+	7 is for rating a value of supreme importance as a guiding principle in your life; normally, there are no more than two such values. 
+
+
+Try to distinguish as much as possible between the values by using all the numbers. You will, of course, need to use numbers more than once.
+
+
+
+As a guiding principle in my life, this value is: - Family security (living in secure surroundings)",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Protecting the environment (from destruction or pollution)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Broadmindedness (being tolerant of different ideas or beliefs)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Social justice (correcting injustice, protecting societies weak and vulnerable)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Helpfulness (helping friends and family)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Honesty (being genuine and sincere)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Social power (having control over others, being dominant)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Wealth (having material possessions, money)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Success (achieving one's goals)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Ambition (being hard-working, aspiring)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Curiosity (being interested in everything, novelty, change)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Freedom (forming own opinions, making own decisions)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - A varied life (filled with challenge, novelty and change)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - An exciting life (having stimulating experiences)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Pleasure (fulfilling one's desires)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Enjoying life (enjoying food, sex, leisure etc.)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Accepting my portion in life (submitting to life's circumstances)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Respecting tradition (maintaining customs of one's family or culture)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Honouring of parents or elders (showing respect)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Obedience (following rules, meeting obligations)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Social order (having a stable society)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in your neighbourhood as guiding principles in their life, and which values are less important to people in your neighbourhood?"".
+ You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in your neighbourhood.
+
+
+As a guiding principle in the lives of people in my neighbourhood, this value is: - Family security (living in secure surroundings)",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Protecting the environment (from destruction or pollution)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Broadmindedness (being tolerant of different ideas or beliefs)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Social justice (correcting injustice, protecting societies weak and vulnerable)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Helpfulness (helping friends and family)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Honesty (being genuine and sincere)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Social power (having control over others, being dominant)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Wealth (having material possessions, money)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Success (achieving one's goals)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Ambition (being hard-working, aspiring)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Curiosity (being interested in everything, novelty, change)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Freedom (forming own opinions, making own decisions)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - A varied life (filled with challenge, novelty and change)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - An exciting life (having stimulating experiences)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Pleasure (fulfilling one's desires)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Enjoying life (enjoying food, sex, leisure etc.)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Accepting my portion in life (submitting to life's circumstances)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Respecting tradition (maintaining customs of one's family or culture)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Honouring of parents or elders (showing respect)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Obedience (following rules, meeting obligations)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Social order (having a stable society)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in [QID140-ChoiceGroup-SelectedChoices] as guiding principles in their life, and which values are less important to people in [QID140-ChoiceGroup-SelectedChoices]?"".
+ 
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in [QID140-ChoiceGroup-SelectedChoices].
+
+
+
+As a guiding principle in the lives of people in [QID140-ChoiceGroup-SelectedChoices], this value is: - Family security (living in secure surroundings)",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Protecting the environment (from destruction or pollution)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Broadmindedness (being tolerant of different ideas or beliefs)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Social justice (correcting injustice, protecting societies weak and vulnerable)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Helpfulness (helping friends and family)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Honesty (being genuine and sincere)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Social power (having control over others, being dominant)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Wealth (having material possessions, money)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Success (achieving one's goals)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Ambition (being hard-working, aspiring)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Curiosity (being interested in everything, novelty, change)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Freedom (forming own opinions, making own decisions)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - A varied life (filled with challenge, novelty and change)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - An exciting life (having stimulating experiences)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Pleasure (fulfilling one's desires)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Enjoying life (enjoying food, sex, leisure etc.)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Accepting my portion in life (submitting to life's circumstances)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Respecting tradition (maintaining customs of one's family or culture)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Honouring of parents or elders (showing respect)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Obedience (following rules, meeting obligations)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Social order (having a stable society)","You will now be presented with the same list of values. However, now the main question in this task will be: ""Which values are important to people in the United Kingdom as a whole as guiding principles in their life, and which values are less important to people in the United Kingdom?"".#
+
+
+
+You will use the same rating scale as with the previous list of values, but this time answer in terms of how important each value is to people in the United Kingdom.
+
+
+
+As a guiding principle in the lives of people in the United Kingdom, this value is: - Family security (living in secure surroundings)",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The colour test you are about to take part in is very simple, when asked for your favourite colour you must select 'Purple'. This is an attention check.
+
+
+Based on the text you read above, what colour have you been asked to enter?",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following statements relate to how you see yourself in relation to other people who also live in your neighbourhood. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in your neighbourhood. - On the whole, I am similar to others in my neighbourhood","The following statements relate to how you see yourself in relation to other people who also live in your neighbourhood. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in your neighbourhood. - On the whole, others in my neighbourhood would think I am similar to them","The following statements relate to how you see yourself in relation to other people who also live in your neighbourhood. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in your neighbourhood. - My values are similar to the values of the other people in my neighbourhood","The following statements relate to how you see yourself in relation to other people who also live in your neighbourhood. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in your neighbourhood. - Others in my neighbourhood would think their values are similar to mine","The following statements relate to how you see yourself in relation to other people who also live in your neighbourhood. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in your neighbourhood. - My personality is similar to the personalities of the other people in my neighbourhood","The following statements relate to how you see yourself in relation to other people who also live in your neighbourhood. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in your neighbourhood. - Others in my neighbourhood would think their personalities are similar to mine",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following statements relate to how you see yourself in relation to other people who also live in [QID140-ChoiceGroup-SelectedChoices]. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in [QID140-ChoiceGroup-SelectedChoices]. - On the whole, I am similar to others in [QID140-ChoiceGroup-SelectedChoices]","The following statements relate to how you see yourself in relation to other people who also live in [QID140-ChoiceGroup-SelectedChoices]. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in [QID140-ChoiceGroup-SelectedChoices]. - On the whole, others in [QID140-ChoiceGroup-SelectedChoices] would think I am similar to them","The following statements relate to how you see yourself in relation to other people who also live in [QID140-ChoiceGroup-SelectedChoices]. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in [QID140-ChoiceGroup-SelectedChoices]. - My values are similar to others in [QID140-ChoiceGroup-SelectedChoices]","The following statements relate to how you see yourself in relation to other people who also live in [QID140-ChoiceGroup-SelectedChoices]. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in [QID140-ChoiceGroup-SelectedChoices]. - Others in [QID140-ChoiceGroup-SelectedChoices] would think their values are similar to my values","The following statements relate to how you see yourself in relation to other people who also live in [QID140-ChoiceGroup-SelectedChoices]. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in [QID140-ChoiceGroup-SelectedChoices]. - My personality is similar to others in [QID140-ChoiceGroup-SelectedChoices]","The following statements relate to how you see yourself in relation to other people who also live in [QID140-ChoiceGroup-SelectedChoices]. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in [QID140-ChoiceGroup-SelectedChoices]. - Others in [QID140-ChoiceGroup-SelectedChoices] would think their personalities are similar to my personality",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following statements relate to how you see yourself in relation to other people who also live in the United Kingdom. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in the United Kingdom. - On the whole, I am similar to others in the United Kingdom","The following statements relate to how you see yourself in relation to other people who also live in the United Kingdom. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in the United Kingdom. - On the whole, others in the United Kingdom would think I am similar to them","The following statements relate to how you see yourself in relation to other people who also live in the United Kingdom. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in the United Kingdom. - My values are similar to others in the United Kingdom","The following statements relate to how you see yourself in relation to other people who also live in the United Kingdom. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in the United Kingdom. - Others in the United Kingdom would think their values are similar to my values","The following statements relate to how you see yourself in relation to other people who also live in the United Kingdom. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in the United Kingdom. - My personality is similar to others in the United Kingdom","The following statements relate to how you see yourself in relation to other people who also live in the United Kingdom. You will be asked to rate the extent to which you agree or disagree with each of the statements.
+
+
+Please consider all of the people living in the United Kingdom. - Others in the United Kingdom would think their personalities are similar to my personality",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"All things considered, how satisfied are you with your life as a whole?",To what extent do you feel your life to be meaningful?,To what extent do you agree with the following statement? I have high self-esteem.,"How much do you like your name, in total?","Over the last 2 weeks, how often have you been bothered by the following problems? - Little interest or pleasure in doing things","Over the last 2 weeks, how often have you been bothered by the following problems? - Feeling down, depressed, or hopeless","Over the last 2 weeks, how often have you been bothered by the following problems? - Feeling nervous, anxious or on edge","Over the last 2 weeks, how often have you been bothered by the following problems? - Not being able to stop or control worrying","Over the last 2 weeks, how often have you been bothered by the following problems? - Difficulties were piling up so high that you could not overcome them","Over the last 2 weeks, how often have you been bothered by the following problems? - Unable to control the important things in your life",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Good","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Bad","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Disoriented","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Overwhelmed","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Sad","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Depressed","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Miserable","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Guilt","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Shame","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Outraged","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Betrayed","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Disgust","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Resentment","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Angry","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Frustrated","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Bored","To what extent do you feel the following feelings and emotions generally, that is how you feel on average? - Schadenfreude (pleasure in others' misfortunes)",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Get involved in conservation work to protect natural environments (e.g. national parks, coastline)","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Write to a local or regional politician (e.g. local councillor, mayor) about an environmental issue","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Write to a national politician (e.g. MP, government minister) about an environmental issue","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Offer support (e.g. by voting) for political action to protect the environment","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Take part in a protest about an environmental issue","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Sign a petition about an environmental issue","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Set up a recycling scheme at work, college or elsewhere","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Donate money to an environmental campaign group","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Do something together with neighbours, people at work or friends to address an environmental issue","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Find out more about environmental issues (e.g. learning more about climate change)","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Avoid buying new things unnecessarily (e.g. clothes, luxury items)","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Fit energy-saving lightbulbs at home","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Consider changing who you would vote for because of climate change","The following question lists several behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Turn off the tap when brushing teeth",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Avoid littering (throwing rubbish on the street)","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Avoid wasting food (e.g. by using leftovers)","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Turn off lights when not in use","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Recycle household waste (e.g. glass)","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Take short showers (less than 3 min long) or infrequent baths","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Avoid eating meat (or continue avoiding meat if already not eating meat)","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Encourage other people to save energy","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Buy products with less packaging","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Buy environmentally friendly products","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Eat organic, locally grown or in-season food","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - This item is here to check you are paying attention. Please move the slider all the way up to 100 for this question.","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Try to fix things rather than replace them","Here are some more behaviours that relate to the environment.
+
+Please respond with the frequency with which you intend to engage in these behaviours in the future using the scale below. If you don't intend to engage in these behaviours at all, please click on the slider and drag it back to 0. - Avoid using the car when I could walk or cycle",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Think about the consequences of climate change, and answer how confident you feel in regards to each question. If you do not feel at all confident for a question, click on the slider and drag it back to 0. - How confident are you that your actions can help to tackle the consequences of climate change?","Think about the consequences of climate change, and answer how confident you feel in regards to each question. If you do not feel at all confident for a question, click on the slider and drag it back to 0. - How confident are you that people in your neighbourhood can work together to tackle the consequences of climate change?","Think about the consequences of climate change, and answer how confident you feel in regards to each question. If you do not feel at all confident for a question, click on the slider and drag it back to 0. - How confident are you that people in [QID140-ChoiceGroup-SelectedChoices] can work together to tackle the consequences of climate change?","Think about the consequences of climate change, and answer how confident you feel in regards to each question. If you do not feel at all confident for a question, click on the slider and drag it back to 0. - How confident are you that people in the UK can work together to tackle the consequences of climate change?",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Do you believe that climate change is happening, and that it is at least partly caused by humans?",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Good","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Bad","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Disoriented","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Overwhelmed","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Sad","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Depressed","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Miserable","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Guilt","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Shame","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Outraged","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Betrayed","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Disgust","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Resentment","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Angry","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Frustrated","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Bored","The following section lists several feelings and emotions. 
+
+
+
+To what extent does climate change make you feel the following? - Schadenfreude (pleasure in others' misfortunes)",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I like my neighbourhood.","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I identify with my neighbourhood.","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I feel emotionally attached to my neighbourhood.","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I like [QID140-ChoiceGroup-SelectedChoices].","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I identify with [QID140-ChoiceGroup-SelectedChoices].","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I feel emotionally attached to [QID140-ChoiceGroup-SelectedChoices].","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I like the United Kingdom.","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I identify with the United Kingdom.","The following statements concern your thoughts and feelings about the areas in which you live. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these areas as a place as a person who lives there. - I feel emotionally attached to the United Kingdom.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"The following statements concern your thoughts and feelings about several groups of people. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these groups of people. - I identify with people in my neighbourhood.","The following statements concern your thoughts and feelings about several groups of people. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these groups of people. - I identify with people in [QID140-ChoiceGroup-SelectedChoices].","The following statements concern your thoughts and feelings about several groups of people. You will be asked to rate the extent to which you agree or disagree with these statements.
+
+
+
+When answering these questions, think about the extent to which you agree that the statements reflect your feelings generally towards these groups of people. - I identify with people in the United Kingdom.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Politically, do you identify as more left- or right-wing?","Which political party do you feel closest to, if any? - Selected Choice","Which political party do you feel closest to, if any? - Other - Text","Thinking about the concept of class, which, if any of the following do you identify as? - Selected Choice","Thinking about the concept of class, which, if any of the following do you identify as? - None of the above. I identify as: - Text","How wide are the differences between social classes in the United Kingdom, do you think?","Please think about where you stand at this time in your life compared with people in the United Kingdom. Some people in the United Kingdom are better off - they have more money, more education and better jobs. Other people in the United Kingdom are worse off - they have less money, less education and worse jobs. 
+
+How do you think your current standing in life compares with that of the people in the United Kingdom?","Please think about where you stand at this time in your life compared with people in [QID140-ChoiceGroup-SelectedChoices]. Some people in [QID140-ChoiceGroup-SelectedChoices] are better off - they have more money, more education and better jobs. Other people in [QID140-ChoiceGroup-SelectedChoices] are worse off - they have less money, less education and worse jobs. 
+
+How do you think your current standing in life compares with that of the people in [QID140-ChoiceGroup-SelectedChoices]?","Please think about where you stand at this time in your life compared with people in your neighbourhood. Some people in your neighbourhood are better off - they have more money, more education and better jobs. Other people in your neighbourhood are worse off - they have less money, less education and worse jobs. 
+
+How do you think your current standing in life compares with that of the people in your neighbourhood?","Overall, how favourable do you feel towards human beings in general?",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"What is your annual household income (before taxes)? That is, how much
+does your household make each year, before tax? Please be as accurate as you
+can.",What is the highest level of education you have completed?,How many adults (18+) live in your household (including yourself)?,How many children (under 18) live in your household?,"Select the option below that best describes the sort of work you do.
+
+If you are not working now, please tick the box to show what you did in your last job.",Would you support or oppose the creation of a new separate English Parliament that votes only on English laws and issues composed only of representatives from England (along the lines of the existing Scottish and Welsh Parliaments)?,Do you support or oppose England becoming a country independent from the rest of the United Kingdom?,Do you support Northern Ireland staying in the United Kingdom or support Northern Ireland joining the Republic of Ireland outside the United Kingdom?,Do you support or oppose Wales becoming a country independent from the rest of the United Kingdom?,Do you support or oppose Scotland becoming a country independent from the rest of the United Kingdom?,How did you vote in the 2016 referendum on the UK's membership in the EU (Brexit)?,"When you considered how to define your neighbourhood at the start of this study, how did you go about defining your neighbourhood? What factors went into your decision about how you defined your neighbourhood?
+
+Please write a few short sentences telling us as much as possible about the decisions that went in to defining your neighbourhood (avoiding information that would allow your neighbourhood to be identified), especially if there were any difficulties or particularities specific to your neighbourhood.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,What was your sex assigned at birth?,"Do you identify as transgender (i.e., your gender does not match your sex assigned at birth)? - Selected Choice","Do you identify as transgender (i.e., your gender does not match your sex assigned at birth)? - Yes - Trans (not listed above) - Text",Which of the following best describes your sexual orientation? - Selected Choice,Which of the following best describes your sexual orientation? - Other sexual orientation: - Text,What is your religion? - Selected Choice,What is your religion? - Any other religion: - Text,What is your ethnicity? - Selected Choice,What is your ethnicity? - Any other white background: - Text,What is your ethnicity? - Any other mixed/ multiple ethnic background: - Text,What is your ethnicity? - Any other Asian background: - Text,What is your ethnicity? - Any other Black/ African/ Caribbean background: - Text,What is your ethnicity? - Any other ethnic group: - Text,Are you a vegetarian?,"What is the area code of your postcode (the first three to four digits - e.g. BA1)?
+
+It is important for our data analysis to include this.",Were you born in the United Kingdom?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Additionally, we would like to give you the opportunity to provide any other information, ideas and comments you may have about the topics in the study, or issues you may have notice or have had during the study  - we welcome all feedback.",PROLIFIC_PID
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID163_1""}","{""ImportId"":""QID163_2""}","{""ImportId"":""QID163_3""}","{""ImportId"":""QID208_TEXT""}","{""ImportId"":""QID130""}","{""ImportId"":""QID130_4_TEXT""}","{""ImportId"":""QID135_TEXT""}","{""ImportId"":""QID140""}","{""ImportId"":""QID210_FIRST_CLICK""}","{""ImportId"":""QID210_LAST_CLICK""}","{""ImportId"":""QID210_PAGE_SUBMIT""}","{""ImportId"":""QID210_CLICK_COUNT""}","{""ImportId"":""QID184_FIRST_CLICK""}","{""ImportId"":""QID184_LAST_CLICK""}","{""ImportId"":""QID184_PAGE_SUBMIT""}","{""ImportId"":""QID184_CLICK_COUNT""}","{""ImportId"":""QID220_1""}","{""ImportId"":""QID220_2""}","{""ImportId"":""QID220_3""}","{""ImportId"":""QID220_4""}","{""ImportId"":""QID220_5""}","{""ImportId"":""QID220_6""}","{""ImportId"":""QID220_7""}","{""ImportId"":""QID220_8""}","{""ImportId"":""QID220_9""}","{""ImportId"":""QID220_10""}","{""ImportId"":""QID220_11""}","{""ImportId"":""QID220_12""}","{""ImportId"":""QID220_13""}","{""ImportId"":""QID220_14""}","{""ImportId"":""QID220_15""}","{""ImportId"":""QID220_16""}","{""ImportId"":""QID220_17""}","{""ImportId"":""QID220_18""}","{""ImportId"":""QID220_19""}","{""ImportId"":""QID220_20""}","{""ImportId"":""QID220_21""}","{""ImportId"":""QID180_FIRST_CLICK""}","{""ImportId"":""QID180_LAST_CLICK""}","{""ImportId"":""QID180_PAGE_SUBMIT""}","{""ImportId"":""QID180_CLICK_COUNT""}","{""ImportId"":""QID222_1""}","{""ImportId"":""QID222_2""}","{""ImportId"":""QID222_3""}","{""ImportId"":""QID222_4""}","{""ImportId"":""QID222_5""}","{""ImportId"":""QID222_6""}","{""ImportId"":""QID222_7""}","{""ImportId"":""QID222_8""}","{""ImportId"":""QID222_9""}","{""ImportId"":""QID222_10""}","{""ImportId"":""QID222_11""}","{""ImportId"":""QID222_12""}","{""ImportId"":""QID222_13""}","{""ImportId"":""QID222_14""}","{""ImportId"":""QID222_15""}","{""ImportId"":""QID222_16""}","{""ImportId"":""QID222_17""}","{""ImportId"":""QID222_18""}","{""ImportId"":""QID222_19""}","{""ImportId"":""QID222_20""}","{""ImportId"":""QID222_21""}","{""ImportId"":""QID181_FIRST_CLICK""}","{""ImportId"":""QID181_LAST_CLICK""}","{""ImportId"":""QID181_PAGE_SUBMIT""}","{""ImportId"":""QID181_CLICK_COUNT""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID223_2""}","{""ImportId"":""QID223_3""}","{""ImportId"":""QID223_4""}","{""ImportId"":""QID223_5""}","{""ImportId"":""QID223_6""}","{""ImportId"":""QID223_7""}","{""ImportId"":""QID223_8""}","{""ImportId"":""QID223_9""}","{""ImportId"":""QID223_10""}","{""ImportId"":""QID223_11""}","{""ImportId"":""QID223_12""}","{""ImportId"":""QID223_13""}","{""ImportId"":""QID223_14""}","{""ImportId"":""QID223_15""}","{""ImportId"":""QID223_16""}","{""ImportId"":""QID223_17""}","{""ImportId"":""QID223_18""}","{""ImportId"":""QID223_19""}","{""ImportId"":""QID223_20""}","{""ImportId"":""QID223_21""}","{""ImportId"":""QID182_FIRST_CLICK""}","{""ImportId"":""QID182_LAST_CLICK""}","{""ImportId"":""QID182_PAGE_SUBMIT""}","{""ImportId"":""QID182_CLICK_COUNT""}","{""ImportId"":""QID224_1""}","{""ImportId"":""QID224_2""}","{""ImportId"":""QID224_3""}","{""ImportId"":""QID224_4""}","{""ImportId"":""QID224_5""}","{""ImportId"":""QID224_6""}","{""ImportId"":""QID224_7""}","{""ImportId"":""QID224_8""}","{""ImportId"":""QID224_9""}","{""ImportId"":""QID224_10""}","{""ImportId"":""QID224_11""}","{""ImportId"":""QID224_12""}","{""ImportId"":""QID224_13""}","{""ImportId"":""QID224_14""}","{""ImportId"":""QID224_15""}","{""ImportId"":""QID224_16""}","{""ImportId"":""QID224_17""}","{""ImportId"":""QID224_18""}","{""ImportId"":""QID224_19""}","{""ImportId"":""QID224_20""}","{""ImportId"":""QID224_21""}","{""ImportId"":""QID183_FIRST_CLICK""}","{""ImportId"":""QID183_LAST_CLICK""}","{""ImportId"":""QID183_PAGE_SUBMIT""}","{""ImportId"":""QID183_CLICK_COUNT""}","{""ImportId"":""QID211""}","{""ImportId"":""QID250_FIRST_CLICK""}","{""ImportId"":""QID250_LAST_CLICK""}","{""ImportId"":""QID250_PAGE_SUBMIT""}","{""ImportId"":""QID250_CLICK_COUNT""}","{""ImportId"":""QID112_19""}","{""ImportId"":""QID112_20""}","{""ImportId"":""QID112_21""}","{""ImportId"":""QID112_22""}","{""ImportId"":""QID112_23""}","{""ImportId"":""QID112_24""}","{""ImportId"":""QID185_FIRST_CLICK""}","{""ImportId"":""QID185_LAST_CLICK""}","{""ImportId"":""QID185_PAGE_SUBMIT""}","{""ImportId"":""QID185_CLICK_COUNT""}","{""ImportId"":""QID118_1""}","{""ImportId"":""QID118_2""}","{""ImportId"":""QID118_3""}","{""ImportId"":""QID118_4""}","{""ImportId"":""QID118_5""}","{""ImportId"":""QID118_6""}","{""ImportId"":""QID186_FIRST_CLICK""}","{""ImportId"":""QID186_LAST_CLICK""}","{""ImportId"":""QID186_PAGE_SUBMIT""}","{""ImportId"":""QID186_CLICK_COUNT""}","{""ImportId"":""QID120_1""}","{""ImportId"":""QID120_2""}","{""ImportId"":""QID120_3""}","{""ImportId"":""QID120_4""}","{""ImportId"":""QID120_5""}","{""ImportId"":""QID120_6""}","{""ImportId"":""QID193_FIRST_CLICK""}","{""ImportId"":""QID193_LAST_CLICK""}","{""ImportId"":""QID193_PAGE_SUBMIT""}","{""ImportId"":""QID193_CLICK_COUNT""}","{""ImportId"":""QID124""}","{""ImportId"":""QID125""}","{""ImportId"":""QID127""}","{""ImportId"":""QID128""}","{""ImportId"":""QID126_10""}","{""ImportId"":""QID126_11""}","{""ImportId"":""QID126_12""}","{""ImportId"":""QID126_13""}","{""ImportId"":""QID126_14""}","{""ImportId"":""QID126_15""}","{""ImportId"":""QID190_FIRST_CLICK""}","{""ImportId"":""QID190_LAST_CLICK""}","{""ImportId"":""QID190_PAGE_SUBMIT""}","{""ImportId"":""QID190_CLICK_COUNT""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID168_2""}","{""ImportId"":""QID168_3""}","{""ImportId"":""QID168_4""}","{""ImportId"":""QID168_5""}","{""ImportId"":""QID168_6""}","{""ImportId"":""QID168_7""}","{""ImportId"":""QID168_8""}","{""ImportId"":""QID168_9""}","{""ImportId"":""QID168_10""}","{""ImportId"":""QID168_11""}","{""ImportId"":""QID168_12""}","{""ImportId"":""QID168_13""}","{""ImportId"":""QID168_14""}","{""ImportId"":""QID168_15""}","{""ImportId"":""QID168_16""}","{""ImportId"":""QID168_17""}","{""ImportId"":""QID187_FIRST_CLICK""}","{""ImportId"":""QID187_LAST_CLICK""}","{""ImportId"":""QID187_PAGE_SUBMIT""}","{""ImportId"":""QID187_CLICK_COUNT""}","{""ImportId"":""QID129_1""}","{""ImportId"":""QID129_2""}","{""ImportId"":""QID129_25""}","{""ImportId"":""QID129_3""}","{""ImportId"":""QID129_4""}","{""ImportId"":""QID129_5""}","{""ImportId"":""QID129_6""}","{""ImportId"":""QID129_7""}","{""ImportId"":""QID129_8""}","{""ImportId"":""QID129_9""}","{""ImportId"":""QID129_10""}","{""ImportId"":""QID129_11""}","{""ImportId"":""QID129_12""}","{""ImportId"":""QID129_13""}","{""ImportId"":""QID236_FIRST_CLICK""}","{""ImportId"":""QID236_LAST_CLICK""}","{""ImportId"":""QID236_PAGE_SUBMIT""}","{""ImportId"":""QID236_CLICK_COUNT""}","{""ImportId"":""QID235_14""}","{""ImportId"":""QID235_15""}","{""ImportId"":""QID235_16""}","{""ImportId"":""QID235_17""}","{""ImportId"":""QID235_18""}","{""ImportId"":""QID235_19""}","{""ImportId"":""QID235_20""}","{""ImportId"":""QID235_21""}","{""ImportId"":""QID235_22""}","{""ImportId"":""QID235_23""}","{""ImportId"":""QID235_27""}","{""ImportId"":""QID235_24""}","{""ImportId"":""QID235_26""}","{""ImportId"":""QID188_FIRST_CLICK""}","{""ImportId"":""QID188_LAST_CLICK""}","{""ImportId"":""QID188_PAGE_SUBMIT""}","{""ImportId"":""QID188_CLICK_COUNT""}","{""ImportId"":""QID240_6""}","{""ImportId"":""QID240_2""}","{""ImportId"":""QID240_4""}","{""ImportId"":""QID240_5""}","{""ImportId"":""QID241_FIRST_CLICK""}","{""ImportId"":""QID241_LAST_CLICK""}","{""ImportId"":""QID241_PAGE_SUBMIT""}","{""ImportId"":""QID241_CLICK_COUNT""}","{""ImportId"":""QID215""}","{""ImportId"":""QID216_FIRST_CLICK""}","{""ImportId"":""QID216_LAST_CLICK""}","{""ImportId"":""QID216_PAGE_SUBMIT""}","{""ImportId"":""QID216_CLICK_COUNT""}","{""ImportId"":""QID149_1""}","{""ImportId"":""QID149_2""}","{""ImportId"":""QID149_3""}","{""ImportId"":""QID149_4""}","{""ImportId"":""QID149_5""}","{""ImportId"":""QID149_6""}","{""ImportId"":""QID149_7""}","{""ImportId"":""QID149_8""}","{""ImportId"":""QID149_9""}","{""ImportId"":""QID149_10""}","{""ImportId"":""QID149_11""}","{""ImportId"":""QID149_12""}","{""ImportId"":""QID149_13""}","{""ImportId"":""QID149_14""}","{""ImportId"":""QID149_15""}","{""ImportId"":""QID149_16""}","{""ImportId"":""QID149_17""}","{""ImportId"":""QID189_FIRST_CLICK""}","{""ImportId"":""QID189_LAST_CLICK""}","{""ImportId"":""QID189_PAGE_SUBMIT""}","{""ImportId"":""QID189_CLICK_COUNT""}","{""ImportId"":""QID194_1""}","{""ImportId"":""QID194_2""}","{""ImportId"":""QID194_3""}","{""ImportId"":""QID194_11""}","{""ImportId"":""QID194_12""}","{""ImportId"":""QID194_13""}","{""ImportId"":""QID194_7""}","{""ImportId"":""QID194_8""}","{""ImportId"":""QID194_9""}","{""ImportId"":""QID249_FIRST_CLICK""}","{""ImportId"":""QID249_LAST_CLICK""}","{""ImportId"":""QID249_PAGE_SUBMIT""}","{""ImportId"":""QID249_CLICK_COUNT""}","{""ImportId"":""QID243_2""}","{""ImportId"":""QID243_12""}","{""ImportId"":""QID243_8""}","{""ImportId"":""QID248_FIRST_CLICK""}","{""ImportId"":""QID248_LAST_CLICK""}","{""ImportId"":""QID248_PAGE_SUBMIT""}","{""ImportId"":""QID248_CLICK_COUNT""}","{""ImportId"":""QID147""}","{""ImportId"":""QID144""}","{""ImportId"":""QID144_8_TEXT""}","{""ImportId"":""QID195""}","{""ImportId"":""QID195_7_TEXT""}","{""ImportId"":""QID196""}","{""ImportId"":""QID225""}","{""ImportId"":""QID226""}","{""ImportId"":""QID227""}","{""ImportId"":""QID206""}","{""ImportId"":""QID245_FIRST_CLICK""}","{""ImportId"":""QID245_LAST_CLICK""}","{""ImportId"":""QID245_PAGE_SUBMIT""}","{""ImportId"":""QID245_CLICK_COUNT""}","{""ImportId"":""QID230""}","{""ImportId"":""QID231""}","{""ImportId"":""QID228_TEXT""}","{""ImportId"":""QID229_TEXT""}","{""ImportId"":""QID205""}","{""ImportId"":""QID174""}","{""ImportId"":""QID247""}","{""ImportId"":""QID176""}","{""ImportId"":""QID173""}","{""ImportId"":""QID172""}","{""ImportId"":""QID251""}","{""ImportId"":""QID177_TEXT""}","{""ImportId"":""QID199_FIRST_CLICK""}","{""ImportId"":""QID199_LAST_CLICK""}","{""ImportId"":""QID199_PAGE_SUBMIT""}","{""ImportId"":""QID199_CLICK_COUNT""}","{""ImportId"":""QID131""}","{""ImportId"":""QID132""}","{""ImportId"":""QID132_7_TEXT""}","{""ImportId"":""QID133""}","{""ImportId"":""QID133_4_TEXT""}","{""ImportId"":""QID136""}","{""ImportId"":""QID136_8_TEXT""}","{""ImportId"":""QID138""}","{""ImportId"":""QID138_4_TEXT""}","{""ImportId"":""QID138_8_TEXT""}","{""ImportId"":""QID138_13_TEXT""}","{""ImportId"":""QID138_16_TEXT""}","{""ImportId"":""QID138_18_TEXT""}","{""ImportId"":""QID137""}","{""ImportId"":""QID139_TEXT""}","{""ImportId"":""QID148""}","{""ImportId"":""QID192_FIRST_CLICK""}","{""ImportId"":""QID192_LAST_CLICK""}","{""ImportId"":""QID192_PAGE_SUBMIT""}","{""ImportId"":""QID192_CLICK_COUNT""}","{""ImportId"":""QID167_TEXT""}","{""ImportId"":""PROLIFIC_PID""}"
+2022-07-05 10:14:53,2022-07-05 10:15:17,0,82.17.101.207,100,23,1,2022-07-05 10:15:17,R_2PzoNCrwfSfnoG0,,,,,55.805,-4.2899,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5ea8302624b24c06c7e25903
+2022-07-05 10:10:20,2022-07-05 10:22:33,0,90.219.36.53,100,733,1,2022-07-05 10:22:34,R_1gAVH5jYEds4BPw,,,,,53.0806,-2.1331,anonymous,EN,1,1,1,60cfaa59e3a8ba875bcad5b0,2,9999,29,5,6.268,24.4,25.081,13,3.525,14.17,14.889,8,5,5,7,6,8,7,5,8,8,8,9,8,6,7,8,9,2,8,2,8,9,6.17,68.19,68.785,43,5,5,6,3,3,3,7,3,2,2,7,2,2,6,6,6,6,6,2,2,2,6.354,50.309,50.932,34,5,5,5,6,6,8,8,7,6,6,8,2,6,6,7,7,2,4,4,4,4,1.924,67.482,68.058,72,4,4,4,6,6,8,8,4,4,4,7,2,4,7,7,7,2,3,3,3,6,7.245,56.708,57.327,35,3,6.384,7.076,7.659,2,1,1,1,1,1,1,1.668,9.766,10.279,10,2,2,2,2,2,2,3.048,15.607,16.124,9,6,5,6,6,6,6,7.385,20.646,21.152,10,8,8,5,8,1,1,1,1,1,1,2.659,28.096,28.518,31,10,1,2,0,1,0,3,3,0,1,1,1,3,3,3,0,0,3,31.482,31.858,25,51,0,4,27,0,52,0,0,0,30,100,100,31,100,8.333,40.439,41.118,31,100,100,100,100,100,0,100,100,100,50,100,100,100,4.611,31.278,31.995,27,49,12,13,12,7.397,17.036,17.64,8,1,2.725,2.725,3.377,1,1,8,3,5,7,4,7,9,9,8,7,7,8,8,8,1,1,1.992,33.533,33.964,24,0,0,0,52,51,54,100,100,100,9.111,35.682,36.262,26,0,50,100,9.112,35.683,36.262,26,6,16,9999,4,9999,3,6,7,8,5,1.887,37.228,37.596,44,11,4,2,1,9,5,4,,,,1,Thought of the immediately surrounding streets,1.613,57.528,58.615,38,2,2,9999,1,9999,1,9999,1,9999,9999,9999,9999,9999,5,TF1,1,1.633,17.766,18.152,21,9999,60cfaa59e3a8ba875bcad5b0
+2022-07-05 10:05:18,2022-07-05 10:24:34,0,86.11.37.18,100,1156,1,2022-07-05 10:24:35,R_3jUSkfYPJyz61Ek,,,,,54.5504,-1.2532,anonymous,EN,1,1,1,5c5d76b4c378220001e5f2f5,2,9999,65,1,10.859,20.594,24.797,4,14.756,22.127,33.119,3,7,7,8,8,8,3,4,3,4,6,8,8,5,5,7,7,7,7,7,7,8,8.265,105.372,106.513,32,6,6,7,7,6,4,6,6,5,6,7,6,6,7,7,7,7,6,5,5,7,6.809,93.771,96.011,29,5,7,6,8,6,4,5,5,5,6,7,6,6,5,6,6,6,5,5,5,7,5.833,66.537,67.566,29,6,7,7,7,7,3,5,5,5,6,7,6,6,5,6,6,7,6,6,6,7,2.334,67.434,68.726,28,3,3.314,3.314,4.371,1,5,5,5,6,5,5,13.276,41.336,41.355,9,4,4,5,6,4,4,4.304,26.155,27.496,9,5,5,6,5,5,5,4.453,20.428,21.247,10,9,8,4,8,1,1,1,1,1,1,6.35,36.366,37.278,18,7,1,0,0,2,1,1,0,0,5,0,0,0,0,0,0,0,5.975,42.875,44.245,21,31,10,55,81,49,79,54,55,73,56,59,100,62,91,11.2,68.319,69.174,35,97,98,100,100,96,59,94,95,84,64,100,92,70,8.987,68.661,68.69,43,76,65,72,73,27.42,41.847,53.188,10,1,5.84,5.84,10.768,1,1,9,1,8,9,2,5,9,8,8,8,9,8,8,6,1,1,4.237,66.43,74.794,32,75,47,39,90,85,82,80,91,92,9.645,53.348,54.216,27,85,96,90,9.644,53.347,54.215,27,6,16,9999,3,9999,3,7,8,8,9,3.641,50.057,50.768,26,6,3,2,0,1,2,3,,,,1,"My immediate neighbourhood then the wider community where I live, then the town as a whole ",1.787,117.745,118.742,25,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,"TS5 ",1,2.194,36.046,37.149,13,9999,5c5d76b4c378220001e5f2f5
+2022-07-05 10:14:07,2022-07-05 10:24:48,0,95.149.208.34,100,641,1,2022-07-05 10:24:49,R_2tL1NAP4e98SV4z,,,,,51.4207,-1.2571,anonymous,EN,1,1,1,5b3543ecb356d6000108a444,2,9999,21,8,14.802,14.802,24.513,1,0,0,4.332,0,8,7,8,8,7,4,7,8,7,8,9,6,7,8,8,8,7,8,8,9,9,5.395,37.475,39.333,25,7,6,5,6,7,5,6,6,5,6,5,6,5,6,5,6,6,5,5,4,5,5.416,26.221,27.76,25,5,4,5,5,6,5,5,6,7,6,5,6,5,6,7,7,7,6,5,7,6,4.749,27.018,27.816,24,6,7,6,5,5,8,8,8,7,7,6,7,5,8,7,6,7,5,5,6,7,6.44,28.656,29.561,24,3,3.829,3.829,5.972,1,5,4,5,6,5,5,1.403,8.685,9.801,8,3,5,5,5,5,6,4.718,11.577,12.339,6,5,6,6,5,5,4,6.171,22.013,23.472,8,8,7,4,8,3,4,4,4,4,4,1.983,19.324,20.214,13,7,9,4,7,8,8,8,6,7,9,8,8,7,6,7,8,0,5.077,21.589,22.753,19,27,70,24,100,20,100,94,36,0,100,84,90,85,53,4.301,48.614,49.316,27,100,40,87,76,100,10,61,65,32,40,100,57,5,5.265,37.763,38.662,15,40,67,67,100,2.124,12.992,13.767,6,1,1.325,1.325,5.05,1,1,11,9,11,9,11,10,10,11,10,10,10,10,10,10,1,1,1.986,22.357,23.027,18,85,46,30,40,58,24,42,8,28,3.495,34.322,35.705,16,50,28,32,3.494,34.321,35.704,16,2,6,9999,2,9999,4,7,6,5,7,2.334,37.816,39.47,11,1,3,3,1,6,2,2,,,,2,"my neighbourhood votes conservative, which reflects those who live in it, mainly the older generation. the younger generation does not have job opportunities in this neighbourhood as they are limited and many people tend to look elsewhere for work ",1.592,124.036,125.245,29,2,2,9999,3,9999,1,9999,1,9999,9999,9999,9999,9999,5,RG26,1,1.094,24.62,25.682,10,9999,5b3543ecb356d6000108a444
+2022-07-05 10:06:56,2022-07-05 10:27:21,0,86.173.168.238,100,1225,1,2022-07-05 10:27:22,R_3FL3mEnvocsZUFd,,,,,51.7337,-4.1071,anonymous,EN,1,1,1,612579a0f40c730e4622b3ef,2,9999,32,10,9.66,41.366,42.775,9,1.214,74.054,77.549,13,5,8,5,6,5,4,5,6,5,7,8,8,8,8,8,5,2,2,1,3,4,14.139,132.785,132.82,39,5,3,5,4,4,6,6,4,4,5,5,4,4,4,4,5,5,5,5,5,8,3.547,57.547,58.482,30,5,2,5,5,5,2,3,2,2,5,2,2,2,5,3,5,5,5,5,2,5,7.119,82.284,83.225,36,2,3,5,5,4,7,8,4,2,4,2,3,2,5,4,8,8,4,7,6,8,9.227,84.425,85.035,33,3,8.739,8.739,9.831,1,1,4,1,4,4,4,2.236,17.029,18.666,10,1,2,1,2,2,2,5.153,17.006,18.461,11,2,3,2,2,2,2,8.428,30.369,31.407,13,8,4,6,8,1,1,1,1,1,2,1.675,48.23,48.921,25,7,4,4,5,2,2,2,2,2,6,2,2,6,8,4,3,7,6.65,50.912,51.345,27,72,59,61,83,78,80,34,49,59,74,79,64,83,74,1.741,73.173,74.073,48,95,81,67,72,55,47,59,62,60,70,100,48,69,3.583,56.658,56.686,50,35,23,34,17,8.762,24.627,26.045,20,1,4.82,6.518,8.44,4,1,5,6,7,5,5,5,7,6,8,4,7,7,7,6,1,4,0.9,71.573,72.843,43,66,33,64,85,27,58,54,31,38,8.518,51.636,52.513,43,15,16,56,8.517,51.636,52.513,43,2,16,9999,2,9999,4,5,6,5,2,2.689,65.066,67.529,30,14,4,2,0,11,,,,3,,2,"I thought about my local area, probably defined as a ‘village’. ",6.544,84.486,119.635,31,2,2,9999,3,9999,1,9999,1,9999,9999,9999,9999,9999,5,SA4,1,2.117,33.766,35.18,17,9999,612579a0f40c730e4622b3ef
+2022-07-05 10:06:46,2022-07-05 10:29:01,0,86.143.38.143,100,1334,1,2022-07-05 10:29:01,R_ToRNS0uhRUg6Qpj,,,,,54.6581,-5.9045,anonymous,EN,1,1,1,5f0354704532c82550263e33,2,9999,23,12,1.799,48.291,50.712,65,1.637,70.205,71.215,149,5,7,9,8,9,1,2,4,5,4,7,6,5,6,7,5,4,5,6,8,8,2.71,125.865,126.763,70,5,6,6,7,6,6,7,7,5,3,7,4,5,8,7,5,7,3,4,6,8,1.778,87.387,88.344,55,5,4,6,6,5,7,7,7,5,4,6,5,5,8,8,5,6,5,5,6,8,27.483,120.171,120.959,31,3,7,5,8,7,6,7,8,5,4,8,5,4,8,7,4,6,4,5,7,8,1.403,71.737,72.757,40,3,8.541,8.541,11.129,1,4,3,5,6,4,3,7.992,34.577,35.859,10,5,5,5,5,5,5,6.586,23.633,24.512,8,5,2,6,5,6,5,5.268,29.789,30.874,8,7,8,4,7,1,2,3,2,3,2,6.597,31.202,32.682,10,9,1,5,8,7,2,4,2,3,3,1,0,2,0,7,4,1,8.744,67.185,68.544,18,8,0,8,39,0,2,26,5,5,30,90,50,0,31,13.642,85.884,87.133,25,100,66,100,100,0,0,31,56,34,55,100,40,71,8.096,47.435,49.218,16,56,15,40,27,15.15,52.07,53.458,13,1,6.938,6.938,9.976,1,1,1,7,8,9,2,5,2,6,7,2,7,2,9,10,8,1,15.93,58.747,59.721,23,54,29,63,85,86,100,74,75,94,2.748,56.644,57.591,27,40,91,60,2.748,56.644,57.591,27,7,13,9999,5,9999,4,6,7,8,8,2.792,70.359,72.157,29,10,5,3,0,6,,,14,,,4,"I think of the area where I went to school and where I go to church,",1.79,59.611,77.053,17,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,BT38,1,1.305,20.061,21.385,9,9999,5f0354704532c82550263e33
+2022-07-05 10:12:06,2022-07-05 10:29:02,0,109.158.136.82,100,1016,1,2022-07-05 10:29:02,R_24iPAXqcnoMiWPV,,,,,52.4537,1.7037,anonymous,EN,1,1,1,5c2bdb9967278800017a6523,3,9999,31,6,31.143,31.143,34.714,1,0,0,10.785,0,8,9,9,9,7,1,1,2,5,7,6,4,3,6,7,1,1,3,2,4,3,18.202,100.094,100.907,23,1,2,2,4,3,9,8,5,4,3,8,6,2,7,6,5,8,9,5,5,5,6.906,59.183,60.366,21,5,4,3,4,2,6,9,8,8,4,5,2,3,4,4,6,5,5,7,6,6,4.738,46.516,47.617,25,6,3,3,5,4,8,9,8,6,4,5,3,3,7,7,6,8,7,4,6,5,3.46,51.461,52.108,24,3,3.965,3.965,5.582,1,2,1,2,4,2,2,6.876,25.166,26.017,7,1,2,1,1,4,3,3.263,16.736,17.618,7,5,4,3,3,2,2,4.141,16.699,17.776,6,4,7,4,7,4,3,3,3,2,3,4.192,33.325,34.36,10,4,7,3,3,6,6,6,2,1,2,2,3,2,5,7,6,2,4.648,69.154,69.908,22,94,12,34,88,87,74,49,17,51,100,100,100,79,84,9.893,63.307,64.579,18,100,100,66,89,47,100,43,93,60,94,100,100,100,3.131,35.517,36.619,15,10,23,32,73,2.571,12.248,19.583,5,1,3.361,3.361,5.331,1,1,10,1,5,10,10,9,5,3,9,5,9,8,9,9,2,1,3.037,39.359,40.226,18,38,11,11,38,10,49,50,26,50,7.5,37.544,38.759,13,4,23,43,7.5,37.544,38.758,13,1,8,Red Fightback,1,9999,4,1,3,4,8,3.422,58.94,59.701,15,1,3,1,0,7,3,3,,,,2,"My decision was made purely geographically, I defined it by the boundaries of the estate.  
+ ",2.639,174.332,201.083,11,1,5,9999,3,9999,2,9999,1,9999,9999,9999,9999,9999,1,NR32,1,2.31,33.6,34.711,10,9999,5c2bdb9967278800017a6523
+2022-07-05 10:07:55,2022-07-05 10:29:25,0,88.108.165.209,100,1289,1,2022-07-05 10:29:26,R_2ydyVv4GX9yzIeg,,,,,53.4916,-2.3009,anonymous,EN,1,1,1,6168c526e9dc85cde105ba95,2,9999,60,2,1.886,20.454,21.16,24,0.747,2.918,3.371,5,9,9,8,7,6,6,5,5,8,4,8,8,5,5,5,7,5,6,8,7,8,1.342,101.726,102.388,79,6,6,7,5,4,7,8,8,8,6,8,6,5,8,9,7,9,9,7,7,9,6.175,72.891,73.67,45,5,6,7,5,6,7,6,8,8,5,9,8,8,8,8,7,8,7,8,8,8,5.45,79.858,83.228,46,7,7,7,5,6,7,7,8,7,5,8,7,6,7,7,7,8,8,7,8,6,2.218,128.573,129.147,59,3,11.859,11.859,12.649,1,4,3,2,1,5,3,10.606,39.162,40.1,15,5,6,4,5,4,4,6.846,28.854,29.488,16,6,5,6,6,6,5,3.178,31.437,32.088,19,8,7,4,5,3,2,3,2,1,2,4.425,62.32,63.101,39,3,3,7,0,6,8,2,3,0,3,0,2,3,4,5,9,0,7.398,55.656,56.384,30,80,0,0,80,0,80,30,30,0,85,90,100,0,40,17.358,88.07,88.94,49,100,100,100,100,100,0,100,100,100,20,100,100,100,4.972,49.623,50.348,37,30,50,65,70,4.17,27.435,28.141,11,1,6,6,6.901,1,1,9,2,1,8,7,5,1,1,6,8,11,1,9,9,6,1,7.3,46.165,46.857,30,40,80,10,60,60,61,70,100,0,6.136,56.028,56.5,33,30,30,50,6.136,56.028,56.502,33,6,16,9999,3,9999,3,4,4,3,4,22.817,160.669,161.353,61,5,2,3,0,11,3,4,,,,3,My neighbourhood is not very well mixed with religion etc so it was pretty straight forward really.,5.196,90.722,119.756,48,2,2,9999,2,9999,2,9999,1,9999,9999,9999,9999,9999,5,OL8,1,2.287,30.2,30.764,25,9999,6168c526e9dc85cde105ba95
+2022-07-05 10:12:46,2022-07-05 10:30:25,0,5.198.76.148,100,1059,1,2022-07-05 10:30:26,R_2tGrVxLDtL9qMGn,,,,,53.7606,-0.3734,anonymous,EN,1,1,1,5d3b561f161b8c0001524379,2,9999,47,3,25.258,28.073,38.7,2,0,0,43.365,0,8,7,8,8,8,7,6,7,7,7,7,5,7,8,7,6,5,8,7,7,9,35.544,80.602,82.625,21,7,7,8,8,7,7,7,6,7,7,7,8,7,6,7,7,6,8,8,7,9,25.395,70.151,71.399,22,7,8,7,7,9,7,8,7,7,6,7,7,7,8,7,7,8,9,8,7,6,21.898,54.555,55.836,21,7,7,7,8,8,7,7,8,7,8,7,8,7,8,7,8,7,8,8,7,7,28.884,58.902,60.423,21,3,7.692,7.692,8.734,1,6,6,6,5,6,5,4.729,18.239,19.577,6,6,6,6,6,6,6,12.128,22.224,23.268,6,6,6,5,6,6,5,4.784,10.807,12.064,6,8,9,4,7,1,1,3,1,3,3,3.225,39.697,40.634,10,5,2,0,9,6,5,3,7,0,8,4,4,0,3,7,3,0,3.174,49.257,50.668,17,17,29,19,71,4,29,4,24,23,14,11,55,46,86,32.699,91.333,92.381,22,68,64,68,78,50,63,72,74,74,45,67,70,80,19.307,51.737,53.075,22,51,63,72,60,14.969,22.781,23.652,6,2,7.769,11.025,12.042,2,3,2,6,7,1,4,7,3,8,9,1,1,1,2,4,2,1,11.707,40.858,42.068,19,93,91,98,94,88,98,91,82,76,23.543,56.275,60.36,15,41,71,80,23.542,56.274,60.359,15,5,2,9999,1,9999,1,6,6,6,6,2.661,46.013,47.13,9,2,2,2,0,1,2,4,,,,1,9999,2.473,107.796,107.701,12,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,"HU3 ",1,1.448,39.391,40.514,9,9999,5d3b561f161b8c0001524379
+2022-07-05 10:11:54,2022-07-05 10:30:35,0,78.86.32.225,100,1121,1,2022-07-05 10:30:36,R_3QMF4o4CcPiWxPe,,,,,51.4964,-0.1224,anonymous,EN,1,1,1,5d6dfeb99020b1001fcad4c1,2,9999,25,1,1.306,42.463,43.167,21,4.858,52.924,58.171,16,6,8,9,9,8,4,6,9,9,7,8,9,9,9,9,6,7,9,5,8,9,1.274,131.717,132.401,71,6,7,8,8,7,4,6,7,7,7,8,7,6,7,8,7,8,7,5,5,8,7.996,79.529,80.092,66,8,5,6,6,5,3,4,8,8,6,5,7,7,7,9,8,5,7,5,5,7,2.136,76.999,78.065,60,8,7,6,8,5,7,8,6,7,6,8,8,5,7,8,4,5,7,5,5,6,1.281,60.901,62.247,54,3,8.365,8.365,9.083,1,4,3,5,5,3,3,7.895,26.985,27.735,13,6,5,6,6,5,5,4.056,21.681,23.214,15,3,4,6,6,5,6,0.997,15.717,16.343,11,7,8,5,7,2,2,2,2,3,1,3.047,38.5,38.998,36,7,0,4,4,4,0,1,1,0,3,0,0,2,2,4,6,0,7.619,44.861,45.382,41,14,15,4,19,0,22,41,30,11,45,47,72,16,83,7.221,55.476,55.929,54,100,80,98,73,15,4,40,73,36,9,100,21,35,6.594,42.451,42.984,49,44,37,53,67,3.071,11.812,12.607,17,1,2.407,2.407,3.752,1,1,4,1,5,3,1,1,5,5,5,1,3,1,7,6,1,1,1.962,34.733,35.416,31,78,27,34,96,79,60,77,64,48,7.073,49.094,49.683,71,43,94,70,7.073,49.094,49.683,71,6,2,9999,1,9999,3,4,5,5,7,3.219,68.549,68.565,69,4,4,1,0,11,3,5,,,,2,"My neighbourhood is very quiet and everyone tends to keep themselves to themselves. People are friendly but you don’t tend to see a lot of people. ",2.723,117.562,120.056,54,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,Ne40,1,1.918,27.704,28.7,24,9999,5d6dfeb99020b1001fcad4c1
+2022-07-05 10:17:54,2022-07-05 10:31:33,0,217.155.39.147,100,818,1,2022-07-05 10:31:33,R_1mDffkH3ETIn5eU,,,,,51.536,-0.0925,anonymous,EN,1,1,1,59e120ca3e4b5a00016a9bef,2,9999,27,11,9.816,9.816,12.2,1,0,0,8.835,0,7,7,8,6,8,5,8,6,5,8,9,3,7,5,5,3,4,5,1,7,8,14.546,115.01,116.402,34,6,7,7,7,8,4,8,7,6,8,8,9,7,8,7,5,8,8,1,7,8,4.189,39.438,40.513,36,7,8,8,9,8,6,7,8,3,5,6,7,8,6,8,8,8,6,1,8,8,2.537,34.987,35.728,31,4,5,5,8,7,9,9,7,8,5,5,8,8,9,6,6,4,3,1,7,8,8.194,47.928,48.719,35,3,11.249,11.249,20.223,1,3,3,5,5,3,3,2.308,13.508,14.183,11,6,5,5,5,3,3,3.549,13.365,14.273,8,3,3,5,5,2,2,4.986,21.185,22.127,8,7,7,5,8,2,1,2,2,1,2,3.186,34.687,35.497,17,6,7,1,8,8,6,7,6,8,4,1,0,7,5,8,4,0,5.115,34.697,35.739,25,5,45,12,59,81,94,25,4,12,83,91,21,73,97,10.955,54.222,55.379,17,100,100,100,100,13,40,34,98,30,30,100,81,100,3.696,34.448,35.201,14,18,23,59,29,4.011,22.228,23.868,7,1,2.81,2.81,3.966,1,1,11,1,9,10,7,9,10,11,9,8,5,6,10,10,1,1,3.057,33.523,34.014,21,91,73,85,100,89,100,63,44,39,3.022,37.141,38.547,14,47,64,33,3.022,37.141,38.547,14,3,3,9999,3,9999,3,4,4,5,8,2.79,42.523,43.253,13,3,5,1,0,9,,,,,5,2,Geographical boundaries but also part of neighbourhood I know and houses seem at a similar wealth level,2.582,68.064,105.49,10,2,2,9999,1,9999,2,9999,4,9999,9999,9999,9999,9999,4,G13,2,3.253,40.352,41.228,9,9999,59e120ca3e4b5a00016a9bef
+2022-07-05 10:10:31,2022-07-05 10:32:01,0,109.249.179.234,100,1290,1,2022-07-05 10:32:01,R_2OHjDiUjOiQXiRP,,,,,55.9025,-4.1085,anonymous,EN,1,1,1,5f6a56736ff2f810b5756509,2,9999,29,2,7.395,46.208,46.238,14,0.711,7.932,10.196,7,8,9,5,7,7,1,2,6,5,7,8,5,6,7,8,7,7,6,2,5,7,2.64,382.164,382.764,59,7,3,8,8,8,5,7,7,7,5,7,4,7,5,5,5,7,8,7,8,8,3.217,51.341,52.079,43,8,2,8,7,5,3,8,7,7,8,8,6,7,7,7,7,4,4,5,7,8,6.24,68.307,69.062,46,3,3,6,7,7,8,8,7,7,7,8,5,5,7,9,7,5,3,6,8,8,8.608,73.797,74.524,43,3,9.411,10.595,11.077,2,3,3,3,3,3,3,4.656,11.678,12.37,12,5,3,3,3,3,5,2.97,23.655,24.642,13,5,5,6,6,6,6,13.287,29.886,30.831,12,6,6,6,9,2,1,2,3,1,1,2.274,32.596,33.001,24,8,0,0,6,0,0,0,7,0,0,0,5,0,3,4,7,0,3.869,37.817,39.161,35,33,34,8,32,38,74,12,5,23,57,57,100,62,100,6.471,57.838,59.061,46,100,100,100,58,52,0,72,100,8,34,100,66,100,1.738,31.256,31.929,27,31,49,63,74,3.373,10.492,11.023,8,1,4.994,4.994,5.868,1,5,1,1,7,3,1,3,7,7,4,5,7,3,4,6,1,1,4.7,39.702,40.939,35,70,30,10,100,50,30,100,72,100,7.739,49.697,50.406,26,22,53,64,7.738,49.697,50.406,26,6,16,9999,4,9999,4,6,3,4,5,6.093,66.039,67.087,34,11,4,2,0,4,3,3,,,,2,"I went with the village I live in as it’s so small. There is no shop and only a little village pub. There isn’t much traffic that goes through it and most people have lived in the area a long time ",4.6,111.907,132.487,31,2,2,9999,1,9999,1,9999,1,9999,9999,9999,9999,9999,5,Ca10,1,1.45,21.27,21.997,17,9999,5f6a56736ff2f810b5756509
+2022-07-05 10:15:53,2022-07-05 10:32:29,0,86.164.69.147,100,996,1,2022-07-05 10:32:30,R_1nUwj1XdRi5oVQD,,,,,50.8231,-3.2087,anonymous,EN,1,1,1,6113c3ab816c53f62e7ae05b,2,9999,22,9,127.064,135.881,139.065,2,0,0,15.68,0,7,7,7,8,8,4,6,6,6,4,7,7,7,8,8,8,6,8,5,5,8,9.73,102.45,103.557,21,8,8,7,8,7,7,5,6,6,6,6,5,6,7,6,6,6,5,8,8,8,17.362,52.073,53.387,22,8,6,7,8,8,8,6,6,6,6,9,9,9,9,8,8,8,8,8,8,8,11.607,36.741,37.386,21,8,7,7,7,8,9,9,9,9,6,7,5,5,5,8,7,7,7,7,7,7,17.993,45.71,46.535,24,3,15.413,15.413,16.214,1,2,2,5,5,4,4,19.955,32.867,34.239,6,5,5,5,5,5,5,7.105,17.328,19.099,6,4,4,5,5,5,5,3.316,8.252,9.405,6,8,9,6,9,1,2,1,1,1,1,4.542,23.844,26.125,10,7,0,0,2,1,1,0,0,0,0,0,0,0,0,0,2,0,6.171,30.104,31.869,17,6,5,5,9,3,49,30,22,5,52,86,58,4,100,11.654,54.462,55.619,22,99,96,92,99,16,3,20,86,68,88,100,92,3,7.999,46.665,47.392,19,49,48,49,50,4.477,16.585,17.502,12,1,3.958,3.958,5.096,1,2,8,2,7,8,8,8,8,8,7,7,8,8,8,6,2,3,8.267,39.4,41.846,19,38,43,13,52,50,58,52,55,57,3.793,33.538,34.787,18,39,50,50,3.793,33.538,34.787,18,6,16,9999,1,9999,3,5,5,3,5,2.427,35.959,37.388,8,14,3,0,0,1,5,5,,,,3,"I live on a farm so i considered people who live in the same village as my neighbours ",1.748,55.366,87.313,10,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,EX1,1,1.615,20.002,20.784,8,9999,6113c3ab816c53f62e7ae05b
+2022-07-05 10:11:36,2022-07-05 10:35:29,0,31.185.47.187,100,1433,1,2022-07-05 10:35:29,R_2ZKCnAYRBkrYKnM,,,,,53.0022,-1.4348,anonymous,EN,1,1,1,5bc4c4933b998700018142cd,2,9999,30,4,22.4,22.4,33.3,1,0,0,9.5,0,9,7,8,9,9,2,2,5,6,7,9,6,3,4,9,5,5,3,4,5,6,2.5,126.1,127.5,25,6,5,5,9,9,6,6,7,7,3,5,4,5,6,9,5,8,6,6,8,9,1.6,101.1,102.1,24,5,5,5,9,9,6,7,7,6,3,5,5,7,9,9,5,5,5,5,7,9,3.9,39.7,40.8,22,5,5,5,9,6,7,7,7,7,3,5,5,8,9,9,5,5,6,6,8,9,1.6,52.1,53.1,26,3,4.3,4.3,5.7,1,5,4,4,4,4,4,3.3,14.8,16,7,5,4,5,4,4,3,3.1,19.7,20.7,9,5,4,5,4,4,3,4.4,27.9,30.3,9,3,3,2,2,2,2,2,2,1,2,7.2,43.4,45.8,12,3,5,1,4,6,3,3,8,7,3,4,3,3,3,5,4,0,14.3,79.7,80.6,23,100,75,30,100,50,100,0,100,100,100,100,100,90,100,9,78.6,80.2,38,100,90,100,100,100,75,50,85,75,50,100,100,100,3.7,342.6,343.4,41,5,5,5,10,4.3,27.1,28.1,13,1,9.3,9.3,10.4,1,1,5,2,3,8,3,2,2,1,4,3,4,4,3,5,1,1,2.7,30.6,31.8,19,90,60,90,40,40,30,35,40,30,14.3,77.4,79.9,33,50,40,30,14.3,77.4,79.9,33,4,16,9999,1,9999,4,2,3,3,6,3.4,47.9,49.1,19,2,4,2,0,11,1,3,,,,2,"I defined my neighbourhood as the market town in which I live, but I also took into consideration the fact that I live within a national park and the similarities between my town and the other villages and towns within the park when answering the questions. Questions relating to the entire region and peoples of the East Midlands were a little difficult as most persons within the region do not live in rural areas.",1.6,170.6,175.4,16,2,2,9999,1,9999,1,9999,1,9999,9999,9999,9999,9999,3,DE45,1,1.4,20.2,21.6,15,9999,5bc4c4933b998700018142cd
+2022-07-05 10:17:14,2022-07-05 10:36:46,0,137.220.83.31,100,1171,1,2022-07-05 10:36:46,R_3RmVxaWGYlbE5Mv,,,,,51.4805,-0.0113,anonymous,EN,1,1,1,5bdc4a3b0f86a60001be614a,2,9999,32,7,37.597,37.597,41.918,1,0,0,40.012,0,3,7,5,8,8,5,5,5,5,8,8,7,7,7,8,7,5,5,5,5,8,32.269,122.807,123.59,24,4,6,5,7,4,5,5,5,5,5,8,5,5,8,8,5,6,6,5,5,5,5.866,67.499,68.721,22,8,8,8,8,5,4,8,8,8,7,8,8,8,8,8,5,3,4,3,5,5,10.058,60.317,61.479,22,8,8,8,8,7,5,5,6,6,7,8,7,6,6,8,5,7,7,4,8,8,17.691,104.053,105.289,21,3,9.8,9.8,11.317,1,3,3,5,5,2,3,4.98,23.118,23.822,6,5,4,5,5,5,5,17.46,34.566,35.211,7,6,5,6,5,6,5,10.153,27.369,28.24,6,4,3,2,7,3,3,3,3,4,3,4.897,32.849,33.93,10,1,7,5,9,8,8,7,6,3,2,3,1,3,3,6,9,1,5.832,39.281,40.185,17,5,0,0,70,10,5,0,0,0,50,30,100,50,100,14.155,73.292,74.096,15,100,50,100,80,50,90,30,100,60,60,100,90,100,6.18,54.071,54.771,13,50,50,90,80,9.771,25.655,26.664,4,1,6.173,6.173,7.39,1,2,9,8,10,10,10,8,9,9,7,8,3,7,6,8,1,2,6.002,40.427,41.22,17,30,30,70,100,100,100,100,95,95,16.074,60.441,61.853,12,50,90,90,16.074,60.441,61.853,12,6,16,9999,1,9999,2,4,3,4,6,3.736,57.287,58.023,8,1,2,1,1,11,2,4,,,,3,"I thought of the people you see around, the facilities available, the crime rate and new buildings/planning.",2.45,109.047,171.239,9,2,2,9999,3,9999,1,9999,4,9999,9999,9999,9999,9999,4,SE18,2,1.543,29.679,30.863,9,9999,5bdc4a3b0f86a60001be614a
+2022-07-05 10:25:54,2022-07-05 10:37:17,0,2.126.131.84,100,683,1,2022-07-05 10:37:18,R_1jwROEvpzcOQVxu,,,,,52.999,-2.1871,anonymous,EN,1,1,1,62c43b9bbd4c3991922ffa71,1,9999,18,5,8.509,11.452,13.285,2,0,0,8.337,0,2,5,2,8,8,1,8,8,8,8,8,9,7,8,8,6,2,8,5,6,6,5.889,44.537,45.294,26,8,6,5,8,8,9,9,8,6,6,5,5,8,8,6,9,9,9,8,8,8,13.631,44.054,44.8,27,9,4,5,8,8,6,6,4,3,5,6,2,2,9,9,8,7,3,4,4,4,17.208,67.135,68.065,27,8,8,8,8,8,9,8,8,3,3,6,3,3,8,8,6,1,6,5,6,7,6.501,36.744,37.842,28,3,4.096,4.096,5.855,1,1,1,1,1,2,2,2.705,7.481,8.009,8,5,5,4,4,3,3,2.928,10.032,10.328,7,3,5,5,5,2,2,5.927,18.047,19.088,6,7,6,7,9,2,1,1,1,1,2,1.824,16.809,17.084,14,1,1,2,0,1,0,1,2,4,2,1,2,1,1,1,7,0,5.369,29.456,30.024,26,0,0,0,0,0,0,34,0,0,11,93,0,0,12,11.783,42.212,43.026,28,100,49,9,87,1,0,0,4,11,42,100,54,0,18.204,51.35,51.9,26,3,30,39,63,6.34,13.078,14.051,7,1,2.732,3.284,3.564,2,1,1,1,2,1,1,1,8,2,1,5,2,1,1,5,1,1,4.05,17.761,18.49,24,2,0,0,15,0,0,63,7,7,3.413,21.168,21.847,20,10,24,34,3.413,21.168,21.847,20,6,16,9999,2,9999,4,9,8,3,8,2.503,29.295,29.627,13,23,3,3,4,1,2,5,,,,4,"Major bits of my own neighbourhood had to do with the household I currently live in, as I don't really interact too much with neighbours. So a lot of ""do you fit in with your neighbourhood?"" was mostly ""do you fit into your own household?"" and then ""how does your household fit into your neighbourhood"" rather than just me myself into the neighbourhood. So a lot of understanding of my own neighbourhood is just very surface level, and what anyone else can see just walking through it",2.607,134.392,135.297,12,1,2,9999,3,9999,6,9999,11,9999,9999,9999,9999,9999,5,ST6,1,1.156,20.245,20.468,12,9999,62c43b9bbd4c3991922ffa71
+2022-07-05 10:22:12,2022-07-05 10:40:58,0,92.40.204.205,100,1125,1,2022-07-05 10:40:58,R_3hyTyqy8NfVKzEF,,,,,51.4964,-0.1224,anonymous,EN,1,1,1,5cb1ffae6e3f2c001740dfdf,1,9999,25,9,55.132,91.474,93.068,9,13.088,47.896,48.608,10,8,7,8,8,8,3,5,7,7,8,9,8,7,5,7,1,3,6,2,5,6,6.234,76.839,77.671,48,4,4,6,6,4,7,8,8,7,4,5,5,5,9,8,5,4,5,8,6,7,4.74,59.341,60.009,50,7,7,8,7,7,6,9,8,7,6,5,6,6,8,7,3,5,7,8,7,7,6.435,63.871,65.549,56,6,4,7,5,5,5,8,8,6,6,4,5,6,9,7,7,4,6,8,5,6,4.213,58.356,58.968,44,3,38.865,39.259,39.937,2,2,4,2,4,3,4,10.98,34.319,34.848,15,4,5,4,5,4,5,3.384,15.02,15.585,14,2,3,2,3,2,3,2.5,14.832,15.969,14,8,6,6,6,2,2,1,1,2,2,5.866,40.644,41.184,25,8,0,0,1,2,4,1,1,0,3,1,4,0,2,6,1,1,4.969,46.219,47.042,38,50,0,11,91,70,80,100,65,90,81,100,51,70,100,8.971,68.394,69.086,31,100,100,100,100,72,100,80,80,100,100,100,100,64,3.809,51.652,52.278,25,30,10,20,20,9.161,24.913,25.507,7,1,3.992,3.992,8.917,1,2,7,6,8,9,10,6,6,2,7,8,8,8,9,11,1,1,3.287,39.845,41.113,30,0,0,12,60,42,25,51,39,9,5.557,53.726,54.391,28,0,20,10,5.557,53.726,54.391,28,5,16,9999,1,9999,3,3,2,4,2,3.549,53.653,54.826,34,3,3,2,0,11,3,3,,,,2,I identified my neighbourhood as the general area of town i live in. It has a distinct identity in my mind that is separate from other nearby areas,2.644,65.82,113.2,29,1,2,9999,1,9999,1,9999,1,9999,9999,9999,9999,9999,1,BA22,1,1.171,27.425,28.065,25,9999,5cb1ffae6e3f2c001740dfdf
+2022-07-05 10:16:44,2022-07-05 10:41:47,0,80.189.191.26,100,1502,1,2022-07-05 10:41:48,R_1DYLe9QlNZAba6U,,,,,52.9538,-1.1571,anonymous,EN,1,1,1,60ddc6aec62acf697f640c14,2,9999,20,4,6.881,6.881,10.254,1,0,0,3.528,0,8,9,9,8,7,4,7,8,8,6,8,8,8,7,8,5,4,5,4,5,6,6.796,408.297,409.284,27,7,8,8,8,7,4,5,6,6,5,8,7,6,6,6,7,6,6,8,7,7,4.857,45.146,45.702,29,6,7,7,6,6,5,6,7,7,6,7,7,6,7,7,7,7,7,6,5,7,88.808,187.423,187.901,27,6,5,5,6,6,4,5,6,6,6,8,5,5,5,7,6,8,8,7,8,8,8.637,126.809,127.552,26,3,4.704,4.704,6.08,1,4,4,5,5,3,3,1.653,13.385,14.662,6,5,5,5,5,5,5,1.804,5.827,6.774,6,5,5,5,5,5,5,6.426,18.181,18.701,8,7,6,2,6,2,3,3,3,2,2,3.303,24.489,25.685,10,7,5,6,8,7,6,4,5,4,4,2,6,6,6,5,9,5,82.15,114.357,115.201,20,80,75,81,100,100,100,100,100,84,100,71,21,100,100,7.279,53.258,53.901,20,100,89,100,100,56,100,81,91,87,80,100,75,100,3.566,96.653,97.496,21,61,52,63,76,5.75,20.18,21.084,6,1,2.663,2.663,3.891,1,1,10,1,9,10,10,10,10,7,11,1,10,9,11,10,1,1,3.182,38.197,38.93,21,40,39,27,51,41,53,69,68,70,3.206,44.408,45.645,15,28,44,73,3.206,44.409,45.645,15,1,2,9999,3,9999,4,4,5,5,7,3.605,37.305,38.684,9,5,3,4,0,7,2,4,,,,4,"I considered the average wealth across household, as having less wealth means you are less likely to be able to support environmental issues etc. I know a lot of people that have lived in this neighbourhood for a long time so that influenced my decisions on things like accepting your status in life, and having a stable family.",5.128,83.472,165.259,15,2,2,9999,3,9999,1,9999,1,9999,9999,9999,9999,9999,1,NG4,1,1.776,19.855,24.136,10,9999,60ddc6aec62acf697f640c14
+2022-07-05 10:13:27,2022-07-05 10:42:27,0,94.5.198.71,100,1739,1,2022-07-05 10:42:27,R_31HlObtgWSxvqYc,,,,,51.3951,0.1724,anonymous,EN,1,1,1,5c2c8b710091e40001cb3424,1,9999,40,11,1.405,37.148,38.123,11,7.977,14.354,16.463,3,8,4,7,8,9,4,6,8,8,5,9,7,8,9,9,6,7,8,6,4,8,3.389,97.907,98.862,38,6,4,5,7,8,5,6,7,7,6,7,6,7,7,8,5,7,8,7,5,8,6.418,112.941,114.177,39,7,6,5,8,8,5,7,8,8,5,9,8,7,9,9,5,8,8,6,5,7,6.177,54.265,54.869,37,5,4,5,4,3,7,7,7,6,5,5,5,7,8,9,5,6,6,4,4,7,6.204,71.176,72.586,33,3,5.642,7.058,8.196,2,6,6,6,6,4,4,6.058,23.505,24.434,11,6,6,6,6,4,4,4.905,24.573,25.601,10,4,4,3,4,4,4,6.553,60.732,61.628,11,6,8,6,5,1,1,1,1,1,1,2.569,42.383,43.498,21,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.533,69.332,70.401,22,6,7,11,5,0,100,22,5,30,38,100,100,7,100,31.886,113.45,114.129,27,100,100,100,100,100,0,100,100,100,81,100,100,100,5.315,42.481,44.746,30,54,75,75,52,4.847,17.29,17.864,10,1,6.034,6.034,6.838,1,1,2,1,1,7,1,4,3,1,5,1,4,1,8,6,1,1,5.49,155.565,156.768,26,74,75,52,100,100,100,27,39,43,275.75,387,387.524,33,100,100,27,275.75,387,387.524,33,8,17,9999,1,9999,4,5,6,6,5,2.271,89.215,90.49,30,12,3,2,2,5,,,,,5,2,"I live in a quiet street with very little trouble and good neighbours ",1.773,59.095,87.681,20,1,2,9999,1,9999,1,9999,1,9999,9999,9999,9999,9999,5,KY8,1,1.993,152.367,153.346,17,9999,5c2c8b710091e40001cb3424
+2022-07-05 10:21:01,2022-07-05 10:43:53,0,213.31.28.36,100,1372,1,2022-07-05 10:43:54,R_Rgex7jZtYSlnIad,,,,,51.964,-0.3941,anonymous,EN,1,1,1,57985ec2913c71000197610d,2,9999,40,6,1.264,32.862,33.735,9,2.11,20.583,21.37,8,4,6,5,7,8,2,7,6,5,7,8,6,6,7,9,5,4,4,7,8,9,1.146,95.681,96.401,42,6,7,6,7,4,7,8,8,7,6,5,6,5,8,8,5,4,5,5,5,7,8.701,64.658,66.223,41,7,7,7,7,6,7,7,6,5,5,6,5,5,7,8,4,4,5,6,6,6,11.32,61.324,62.377,34,5,5,4,6,5,5,4,5,4,5,6,5,5,8,9,5,5,6,5,5,5,3.739,53.774,54.524,39,3,6.37,7.598,8.296,2,3,5,3,5,3,3,7.809,35.544,36.647,16,4,5,5,5,4,5,7.742,27.357,28.152,14,5,3,5,5,5,5,6.276,16.058,16.759,11,7,8,3,6,2,1,2,2,1,1,2.245,32.63,33.375,19,7,5,3,5,6,7,4,1,1,6,2,3,6,4,6,7,6,7.504,45.563,46.445,23,0,5,0,83,0,84,10,0,0,81,47,90,73,91,14.151,77.428,78.194,33,100,95,100,100,36,65,45,97,100,74,100,80,70,4.385,46.318,47.106,25,0,9999,0,41,4.946,11.989,12.741,8,1,2.643,2.643,5.794,1,1,9,1,7,9,6,6,5,5,8,6,9,8,8,9,1,1,1.369,30.391,31.259,22,85,65,90,90,81,79,93,68,100,11.465,65.79,66.472,30,60,68,68,11.465,65.79,66.472,30,5,2,9999,3,9999,4,8,7,6,7,17.445,76.313,78.059,23,16,4,2,2,4,4,4,,,,2,I based it on the town where I live which has quite a distinct character from the surrounding towns. It is quite an affluent area compared to other nearby towns and has a high proportion of commuters/people who have moved out of London.,2.101,152.377,186.878,31,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,SG5,1,2.122,37.956,38.817,17,9999,57985ec2913c71000197610d
+2022-07-05 10:16:48,2022-07-05 10:44:39,0,92.40.179.89,100,1670,1,2022-07-05 10:44:39,R_43fgHrhOcF8hA8F,,,,,51.4964,-0.1224,anonymous,EN,1,1,1,613facc861402e4f94d7c38c,2,9999,26,7,3.903,24.181,24.832,19,2.058,16.713,18.621,7,5,6,8,8,9,4,6,7,7,8,9,8,9,9,9,6,7,8,6,7,9,9.543,108.99,109.857,47,7,7,7,7,4,9,8,8,7,5,9,5,5,5,5,5,4,5,5,6,9,8.804,108.702,109.466,47,5,5,3,4,2,9,9,8,7,5,2,3,3,3,3,3,5,4,9,9,4,63.688,158.035,158.716,41,7,8,3,1,3,9,8,7,7,5,5,6,6,7,6,3,4,3,8,9,9,5.088,102.277,102.953,60,3,8.378,8.378,21.499,1,3,3,3,4,3,3,8.599,41.387,42.13,14,6,5,4,4,4,5,5.437,31.96,32.418,15,6,6,6,6,6,6,1.885,18.085,18.835,14,4,4,2,9,3,3,3,4,4,4,1.472,53.813,54.8,40,4,6,5,9,9,8,10,3,3,6,7,2,8,6,8,8,0,5.581,61.432,62.017,34,15,6,1,6,50,86,6,60,8,50,8,100,3,100,11,108.71,109.322,42,100,54,100,19,6,76,71,3,62,5,100,85,4,2.992,56.746,57.65,36,5,3,18,36,4.846,66.172,67.018,33,2,13.948,13.948,23.574,1,1,4,1,1,3,1,1,3,2,1,1,3,1,4,1,1,1,2.691,61.336,62.321,44,50,6,74,12,51,60,100,83,100,1.154,65.126,66.149,33,1,48,70,1.153,65.126,66.149,33,10,1,9999,1,9999,4,4,2,2,4,3.435,100.229,100.96,64,3,3,1,0,4,2,1,,,,1,My neighbourhood is posh and upcoming and I am not soo much. The neighbours who own their homes have the upper hand over us. They make changes without our input even thought we have lived here the longest.,5.822,95.178,152.489,33,2,2,9999,1,9999,1,9999,1,9999,9999,9999,9999,9999,4,Ig10,1,2.255,80.758,82.183,29,"Providing first 4 digits of postcode I felt was intrusive that you could not opt out of this question. ",613facc861402e4f94d7c38c
+2022-07-05 10:19:27,2022-07-05 10:52:16,0,82.47.74.193,100,1968,1,2022-07-05 10:52:16,R_3O8o5ZkWY5oVqRH,,,,,53.4365,-1.354,anonymous,EN,1,1,1,6103096314a66e2b1d0e3f27,1,9999,36,3,1.53,26.637,30.201,21,2.352,39.552,41.64,24,8,7,5,8,7,4,5,8,7,6,8,5,6,5,6,5,4,8,4,9,9,2.156,96.037,98.669,85,6,4,5,7,5,6,8,4,5,4,6,4,5,7,7,5,6,5,4,6,7,2.363,88.847,90.642,74,6,4,5,8,8,5,5,6,7,3,7,5,4,6,5,4,6,7,5,5,7,4.456,155.381,157.231,91,5,6,7,8,4,6,7,7,5,4,6,5,4,8,9,3,4,5,4,6,9,4.606,104.918,126.076,78,3,2.959,7.192,8.557,4,2,2,1,2,3,3,1.398,28.718,30.166,28,5,5,4,4,5,5,1.35,19.963,21.791,27,3,4,5,5,6,6,2.23,39.871,40.895,31,7,8,6,7,1,1,4,2,2,3,1.382,52.656,54.042,40,6,2,2,9,3,1,3,1,4,6,8,4,5,5,6,2,2,2.404,51.812,53.15,39,95,20,10,100,10,60,60,100,55,90,80,50,80,100,1.991,106.539,107.527,43,100,85,100,100,55,55,40,55,75,60,100,81,90,216.85,517.212,518.128,34,55,50,70,60,2.038,30.428,31.75,15,1,2.878,2.878,6.315,1,1,8,1,7,9,6,8,8,7,10,10,10,8,8,10,1,1,1.76,54.32,56.213,58,50,50,50,80,80,100,65,70,80,20.807,120.853,121.677,46,50,80,70,20.807,120.853,121.677,46,5,6,9999,1,9999,3,3,4,7,6,2.558,80.514,81.238,44,9,4,2,2,1,3,4,,,,2,"My neighbourhood is difficult to generalise as easily, there are competing positives and negatives which mean that it’s difficult to amalgamate it under one general ‘neighbourhood’ definition.",3.045,108.308,181.243,57,1,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,S74,1,1.676,36.934,37.773,24,9999,6103096314a66e2b1d0e3f27
+2022-07-05 10:30:04,2022-07-05 10:56:31,0,90.213.211.145,100,1586,1,2022-07-05 10:56:31,R_2cwk4aZ95PndVve,,,,,54.5396,-5.975,anonymous,EN,1,1,1,61221bf809bf9884406d9d68,2,9999,42,12,4.552,62.024,63.685,23,1.728,31.078,33.079,7,7,8,7,8,9,5,7,8,8,6,7,9,6,7,8,5,6,6,7,8,8,12.19,231.55,232.618,61,7,6,7,8,6,4,7,7,7,8,6,8,6,7,5,6,7,8,6,7,8,12.211,117.078,118.001,50,6,5,6,7,7,8,7,7,8,8,7,8,6,7,8,5,7,6,5,6,7,8.372,99.839,103.712,43,7,8,8,6,6,7,8,7,8,7,9,8,7,8,7,5,7,5,7,7,6,11.316,73.449,74.257,41,3,4.936,7.706,9.367,2,5,5,5,5,4,4,12.35,45.941,47.047,12,5,5,5,6,3,4,5.308,46.675,47.728,18,4,5,5,6,4,4,4.947,30.594,30.632,14,7,7,3,4,2,2,1,1,1,1,4.541,54.724,55.834,24,7,3,1,1,1,0,0,5,0,6,1,3,1,3,5,7,0,9.134,55.754,56.847,22,24,35,14,68,49,48,31,74,42,81,87,100,69,100,8.999,80,80.798,57,100,100,100,75,60,40,85,80,80,70,100,70,80,7.846,98.479,98.981,45,30,50,60,60,4.119,38.32,39.132,23,1,4.298,4.298,6.197,1,1,10,8,10,1,10,10,10,10,9,9,9,9,10,10,2,1,2.062,41.511,43.394,24,50,40,30,60,30,50,30,20,20,11.974,115.533,116.366,41,60,40,30,11.975,115.533,116.366,41,4,13,9999,3,9999,3,7,7,5,6,3.967,70.32,71.33,25,8,5,2,3,1,,,16,,,2,"Most of my neighbours are educated, aspirational  and care for the environment. We are a mixed faith neighbourhood as well.",3.437,157.009,157.867,34,2,2,9999,1,9999,2,9999,4,9999,9999,9999,9999,9999,5,BT6,2,1.864,38.213,40.357,16,9999,61221bf809bf9884406d9d68
+2022-07-05 10:11:16,2022-07-05 10:56:31,0,82.132.215.41,100,2714,1,2022-07-05 10:56:31,R_3qI39pBNH5hCykS,,,,,51.5263,-0.3559,anonymous,EN,1,1,1,604d2931a3112583ba56e656,2,9999,27,10,9.389,47.036,47.885,27,3.005,58.973,61.013,18,7,6,5,6,6,5,8,8,7,9,9,8,9,6,8,4,5,5,4,3,6,16.4,128.244,128.933,52,5,7,7,9,3,3,7,6,6,5,8,4,7,3,9,3,3,4,5,5,8,8.228,72.488,73.089,46,5,7,8,5,2,4,5,5,4,3,3,4,8,6,8,5,6,7,9,3,4,6.593,62.279,63.128,45,4,9,7,9,5,4,8,7,5,5,9,7,6,9,7,9,5,5,6,4,6,6.468,66.929,67.627,45,3,9.564,11.418,12.154,2,3,2,5,5,3,5,6.148,35.679,37.269,17,5,6,3,4,2,3,2.769,22.389,22.801,14,6,5,6,5,6,4,2.911,16.512,17.247,12,5,4,2,6,3,3,4,3,3,4,7.606,52.587,53.181,40,5,7,5,8,6,8,6,5,4,8,5,4,5,7,6,3,6,3.534,39.35,39.943,38,49,17,14,15,23,86,68,21,37,59,49,61,44,96,12.535,61.1,61.992,32,100,68,82,87,87,10,41,89,46,65,100,37,51,4.9,53.03,53.857,38,28,38,41,57,7.457,16.8,17.761,9,1,5.778,5.778,7.054,1,4,9,4,11,10,9,8,7,6,6,6,9,8,8,9,2,5,3.31,39.749,40.174,34,29,20,15,33,14,38,53,21,36,0.84,101.152,102.09,40,22,38,57,0.84,101.15,102.088,40,6,16,9999,1,9999,3,3,5,3,6,3.214,128.372,129.198,51,4,2,2,0,8,,,,3,,2,"Knowing my neighbours ",9.442,50.622,56.684,33,2,2,9999,1,9999,2,9999,4,9999,9999,9999,9999,9999,5,Np13,2,2.838,29.876,30.297,21,9999,604d2931a3112583ba56e656
+2022-07-05 11:45:15,2022-07-05 11:59:14,0,90.213.54.239,100,838,1,2022-07-05 11:59:15,R_1l4rY2lrqx9Y2Bl,,,,,50.8612,-0.1194,anonymous,EN,1,1,1,61672f2c447910d54428343f,2,9999,26,8,0.778,10.146,10.894,12,0.988,8.696,10.47,10,5,9,8,7,5,5,6,7,7,8,9,8,8,9,9,4,3,4,4,4,7,1.174,63.955,64.616,44,1,4,3,6,3,4,5,4,6,7,8,8,8,8,8,4,3,3,2,2,6,1.372,48.554,49.114,39,2,5,6,6,7,7,7,8,7,8,7,7,8,8,8,5,5,4,6,4,6,3.955,48.168,48.772,36,4,5,3,4,7,8,8,8,9,7,8,8,8,9,9,4,5,6,7,7,7,1.421,58.016,58.793,43,3,6.301,6.301,7.188,1,3,2,2,2,2,2,2.538,19.708,20.184,15,5,6,6,6,6,5,1.727,21.652,22.842,14,4,3,3,5,5,5,38.509,56.163,56.887,15,3,0,1,7,4,4,3,3,4,4,2.191,32.831,33.611,32,2,8,6,8,10,10,10,10,7,4,2,4,7,7,7,10,1,6.194,37.732,38.225,27,24,0,0,24,63,76,0,18,24,54,67,31,79,80,11.456,47.147,47.579,34,100,100,70,62,27,21,10,100,28,22,100,85,100,3.773,33.474,34.095,29,0,0,17,35,3.15,10.252,11.484,10,1,4.881,4.881,7.015,1,1,6,7,7,6,8,8,9,11,9,10,9,7,9,9,3,1,2.619,38.659,39.416,30,18,10,3,72,41,23,85,50,52,4.837,29.262,29.837,30,9,49,41,4.837,29.262,29.837,30,2,17,9999,3,9999,3,3,3,5,5,2.067,83.93,84.519,61,7,5,2,0,8,5,5,,,,4,9999,4.614,87.803,87.849,44,2,2,9999,1,9999,1,9999,4,9999,9999,9999,9999,9999,5,BN1,2,1.701,27.602,28.552,21,9999,61672f2c447910d54428343f
+2022-07-05 10:17:46,2022-07-05 22:56:10,0,51.199.154.38,100,45504,1,2022-07-05 22:56:11,R_2a8kvy31r5ovcMu,,,,,50.9142,-1.388,anonymous,EN,1,1,1,616292113b03ee943e7ad8c0,2,9999,46,8,1.849,17.576,19.112,6,115.948,115.948,117.256,1,9,5,9,8,8,2,2,6,7,2,8,5,7,6,5,5,8,8,8,8,9,6.719,174.81,176.595,29,7,5,5,8,6,4,3,3,5,8,7,6,6,7,4,4,4,4,5,5,8,7.453,770.258,771.797,36,7,7,6,7,7,6,8,7,6,8,8,5,7,7,6,7,8,8,8,7,9,9.294,86.572,88.064,28,9,8,9,8,8,7,5,6,6,5,6,5,7,6,8,6,8,8,8,8,9,33.254,110.952,112.542,27,3,13.99,16.836,18.101,2,2,2,4,4,2,1,7.649,30.866,31.601,10,2,2,4,3,2,2,30.895,61.804,63.29,11,4,3,4,3,3,2,23.952,63.173,64.851,10,7,8,2,8,2,2,2,3,2,1,5.808,115.719,117.133,26,8,2,0,2,1,5,3,2,1,1,10,2,3,2,4,4,1,11.252,95.351,96.956,28,80,50,51,52,50,70,80,50,78,52,50,100,84,72,25.604,262.351,263.668,54,100,94,91,100,94,47,79,75,76,72,100,68,86,3.637,81.846,83.332,27,15,22,23,35,17.831,42.544,44.155,13,1,4.133,4.133,5.489,1,3,8,6,8,8,8,8,5,4,9,6,9,10,10,9,6,2,4.914,47.069,48.666,20,55,32,34,48,47,55,61,66,74,9.571,75.781,78.039,19,39,44,54,9.572,75.781,78.04,19,4,2,9999,1,9999,3,5,4,4,6,3.507,68.698,71.039,19,3,3,2,1,6,5,4,,,,3,"My neighbour is a small cul de ac where we try and look out for each other. we try to put each other's bins out. Based on the cleanliness of the neighbourhood, we all do our bit to keep it tidy. It is mainly a working class community so there isn't always the time to check everywhere and things can get overlooked. ",10.433,438.868,441.188,37,2,2,9999,1,9999,2,9999,1,9999,9999,9999,9999,9999,5,po33,1,2.7,74.621,76.101,18,9999,616292113b03ee943e7ad8c0
